@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com//jamesgeorge007/github-activity-readme/issues/13) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-2. 🗣 Commented on [#13](https://github.com//jamesgeorge007/github-activity-readme/issues/13) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-3. 🗣 Commented on [#14](https://github.com//jamesgeorge007/github-activity-readme/issues/14) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-4. 💪 Opened PR [#3919](https://github.com//webpack/webpack.js.org/pull/3919) in [webpack/webpack.js.org](https://github.com//webpack/webpack.js.org)
-5. 🗣 Commented on [#3917](https://github.com//webpack/webpack.js.org/issues/3917) in [webpack/webpack.js.org](https://github.com//webpack/webpack.js.org)
+1. 🗣 Commented on [#18](https://github.com//jamesgeorge007/github-activity-readme/issues/18) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+2. 🎉 Merged PR [#18](https://github.com//jamesgeorge007/github-activity-readme/pull/18) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+3. 🗣 Commented on [#17](https://github.com//jamesgeorge007/github-activity-readme/issues/17) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+4. 🎉 Merged PR [#17](https://github.com//jamesgeorge007/github-activity-readme/pull/17) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+5. ❗️ Closed issue [#16](https://github.com//jamesgeorge007/github-activity-readme/issues/16) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 ---
