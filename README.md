@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#118](https://github.com//docsifyjs/docsify-cli/pull/118) in [docsifyjs/docsify-cli](https://github.com//docsifyjs/docsify-cli)
-2. ❗️ Closed issue [#13](https://github.com//jamesgeorge007/github-activity-readme/issues/13) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-3. 🗣 Commented on [#20](https://github.com//jamesgeorge007/github-activity-readme/issues/20) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-4. 🎉 Merged PR [#20](https://github.com//jamesgeorge007/github-activity-readme/pull/20) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-5. 🗣 Commented on [#18](https://github.com//jamesgeorge007/github-activity-readme/issues/18) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+1. 🎉 Merged PR [#118](https://github.com//docsifyjs/docsify-cli/pull/118) in [docsifyjs/docsify-cli](https://github.com//docsifyjs/docsify-cli)
+2. 💪 Opened PR [#118](https://github.com//docsifyjs/docsify-cli/pull/118) in [docsifyjs/docsify-cli](https://github.com//docsifyjs/docsify-cli)
+3. ❗️ Closed issue [#13](https://github.com//jamesgeorge007/github-activity-readme/issues/13) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+4. 🗣 Commented on [#20](https://github.com//jamesgeorge007/github-activity-readme/issues/20) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+5. 🎉 Merged PR [#20](https://github.com//jamesgeorge007/github-activity-readme/pull/20) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 ---
