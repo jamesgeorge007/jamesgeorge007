@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3935](https://github.com//webpack/webpack.js.org/pull/3935) in [webpack/webpack.js.org](https://github.com//webpack/webpack.js.org)
-2. 🎉 Merged PR [#118](https://github.com//docsifyjs/docsify-cli/pull/118) in [docsifyjs/docsify-cli](https://github.com//docsifyjs/docsify-cli)
-3. 💪 Opened PR [#118](https://github.com//docsifyjs/docsify-cli/pull/118) in [docsifyjs/docsify-cli](https://github.com//docsifyjs/docsify-cli)
-4. ❗️ Closed issue [#13](https://github.com//jamesgeorge007/github-activity-readme/issues/13) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-5. 🗣 Commented on [#20](https://github.com//jamesgeorge007/github-activity-readme/issues/20) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+1. ❗️ Closed issue [#22](https://github.com//jamesgeorge007/github-activity-readme/issues/22) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+2. 🗣 Commented on [#22](https://github.com//jamesgeorge007/github-activity-readme/issues/22) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+3. 🗣 Commented on [#22](https://github.com//jamesgeorge007/github-activity-readme/issues/22) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+4. 💪 Opened PR [#3935](https://github.com//webpack/webpack.js.org/pull/3935) in [webpack/webpack.js.org](https://github.com//webpack/webpack.js.org)
+5. 🎉 Merged PR [#118](https://github.com//docsifyjs/docsify-cli/pull/118) in [docsifyjs/docsify-cli](https://github.com//docsifyjs/docsify-cli)
 <!--END_SECTION:activity-->
 
 ---
