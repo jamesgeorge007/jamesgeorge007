@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com//jamesgeorge007/github-activity-readme/issues/24) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-2. 🎉 Merged PR [#24](https://github.com//jamesgeorge007/github-activity-readme/pull/24) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-3. 🗣 Commented on [#23](https://github.com//jamesgeorge007/github-activity-readme/issues/23) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+1. 💪 Opened PR [#1126](https://github.com//hoppscotch/hoppscotch/pull/1126) in [hoppscotch/hoppscotch](https://github.com//hoppscotch/hoppscotch)
+2. 🗣 Commented on [#24](https://github.com//jamesgeorge007/github-activity-readme/issues/24) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+3. 🎉 Merged PR [#24](https://github.com//jamesgeorge007/github-activity-readme/pull/24) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 4. 🗣 Commented on [#23](https://github.com//jamesgeorge007/github-activity-readme/issues/23) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-5. 💪 Opened PR [#119](https://github.com//docsifyjs/docsify-cli/pull/119) in [docsifyjs/docsify-cli](https://github.com//docsifyjs/docsify-cli)
+5. 🗣 Commented on [#23](https://github.com//jamesgeorge007/github-activity-readme/issues/23) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 ---
