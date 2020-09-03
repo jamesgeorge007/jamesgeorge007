@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com//hoppscotch/hopp-doc-gen/issues/8) in [hoppscotch/hopp-doc-gen](https://github.com//hoppscotch/hopp-doc-gen)
-2. 💪 Opened PR [#9](https://github.com//hoppscotch/hopp-doc-gen/pull/9) in [hoppscotch/hopp-doc-gen](https://github.com//hoppscotch/hopp-doc-gen)
-3. 🎉 Merged PR [#65](https://github.com//jamesgeorge007/ghstats-cli/pull/65) in [jamesgeorge007/ghstats-cli](https://github.com//jamesgeorge007/ghstats-cli)
-4. 🎉 Merged PR [#119](https://github.com//docsifyjs/docsify-cli/pull/119) in [docsifyjs/docsify-cli](https://github.com//docsifyjs/docsify-cli)
-5. 🗣 Commented on [#8](https://github.com//jamesgeorge007/github-activity-readme/issues/8) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+1. 🎉 Merged PR [#9](https://github.com//hoppscotch/hopp-doc-gen/pull/9) in [hoppscotch/hopp-doc-gen](https://github.com//hoppscotch/hopp-doc-gen)
+2. 🗣 Commented on [#8](https://github.com//hoppscotch/hopp-doc-gen/issues/8) in [hoppscotch/hopp-doc-gen](https://github.com//hoppscotch/hopp-doc-gen)
+3. 💪 Opened PR [#9](https://github.com//hoppscotch/hopp-doc-gen/pull/9) in [hoppscotch/hopp-doc-gen](https://github.com//hoppscotch/hopp-doc-gen)
+4. 🎉 Merged PR [#65](https://github.com//jamesgeorge007/ghstats-cli/pull/65) in [jamesgeorge007/ghstats-cli](https://github.com//jamesgeorge007/ghstats-cli)
+5. 🎉 Merged PR [#119](https://github.com//docsifyjs/docsify-cli/pull/119) in [docsifyjs/docsify-cli](https://github.com//docsifyjs/docsify-cli)
 <!--END_SECTION:activity-->
 
 ---
