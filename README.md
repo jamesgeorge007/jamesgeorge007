@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#27](https://github.com//jamesgeorge007/github-activity-readme/issues/27) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-2. 🗣 Commented on [#27](https://github.com//jamesgeorge007/github-activity-readme/issues/27) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-3. 🗣 Commented on [#3979](https://github.com//webpack/webpack.js.org/issues/3979) in [webpack/webpack.js.org](https://github.com//webpack/webpack.js.org)
-4. 🎉 Merged PR [#186](https://github.com//madlabsinc/mevn-cli/pull/186) in [madlabsinc/mevn-cli](https://github.com//madlabsinc/mevn-cli)
-5. 🗣 Commented on [#10](https://github.com//hoppscotch/hopp-doc-gen/issues/10) in [hoppscotch/hopp-doc-gen](https://github.com//hoppscotch/hopp-doc-gen)
+1. 💪 Opened PR [#3993](https://github.com//webpack/webpack.js.org/pull/3993) in [webpack/webpack.js.org](https://github.com//webpack/webpack.js.org)
+2. 🗣 Commented on [#32](https://github.com//jamesgeorge007/github-activity-readme/issues/32) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+3. ❗️ Closed issue [#27](https://github.com//jamesgeorge007/github-activity-readme/issues/27) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+4. 🗣 Commented on [#27](https://github.com//jamesgeorge007/github-activity-readme/issues/27) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+5. 🗣 Commented on [#3979](https://github.com//webpack/webpack.js.org/issues/3979) in [webpack/webpack.js.org](https://github.com//webpack/webpack.js.org)
 <!--END_SECTION:activity-->
 
 ---
