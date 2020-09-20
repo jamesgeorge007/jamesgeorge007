@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3993](https://github.com//webpack/webpack.js.org/pull/3993) in [webpack/webpack.js.org](https://github.com//webpack/webpack.js.org)
-2. 🗣 Commented on [#32](https://github.com//jamesgeorge007/github-activity-readme/issues/32) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-3. ❗️ Closed issue [#27](https://github.com//jamesgeorge007/github-activity-readme/issues/27) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-4. 🗣 Commented on [#27](https://github.com//jamesgeorge007/github-activity-readme/issues/27) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-5. 🗣 Commented on [#3979](https://github.com//webpack/webpack.js.org/issues/3979) in [webpack/webpack.js.org](https://github.com//webpack/webpack.js.org)
+1. 💪 Opened PR [#11504](https://github.com//webpack/webpack/pull/11504) in [webpack/webpack](https://github.com//webpack/webpack)
+2. 💪 Opened PR [#3993](https://github.com//webpack/webpack.js.org/pull/3993) in [webpack/webpack.js.org](https://github.com//webpack/webpack.js.org)
+3. 🗣 Commented on [#32](https://github.com//jamesgeorge007/github-activity-readme/issues/32) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+4. ❗️ Closed issue [#27](https://github.com//jamesgeorge007/github-activity-readme/issues/27) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+5. 🗣 Commented on [#27](https://github.com//jamesgeorge007/github-activity-readme/issues/27) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 ---
