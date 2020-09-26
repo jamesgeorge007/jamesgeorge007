@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4002](https://github.com//webpack/webpack.js.org/pull/4002) in [webpack/webpack.js.org](https://github.com//webpack/webpack.js.org)
-2. 🗣 Commented on [#4000](https://github.com//webpack/webpack.js.org/issues/4000) in [webpack/webpack.js.org](https://github.com//webpack/webpack.js.org)
-3. 🗣 Commented on [#187](https://github.com//madlabsinc/mevn-cli/issues/187) in [madlabsinc/mevn-cli](https://github.com//madlabsinc/mevn-cli)
-4. 💪 Opened PR [#1813](https://github.com//webpack/webpack-cli/pull/1813) in [webpack/webpack-cli](https://github.com//webpack/webpack-cli)
-5. 💪 Opened PR [#11504](https://github.com//webpack/webpack/pull/11504) in [webpack/webpack](https://github.com//webpack/webpack)
+1. 🎉 Merged PR [#33](https://github.com//jamesgeorge007/github-activity-readme/pull/33) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+2. ❗️ Closed issue [#32](https://github.com//jamesgeorge007/github-activity-readme/issues/32) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+3. 💪 Opened PR [#4002](https://github.com//webpack/webpack.js.org/pull/4002) in [webpack/webpack.js.org](https://github.com//webpack/webpack.js.org)
+4. 🗣 Commented on [#4000](https://github.com//webpack/webpack.js.org/issues/4000) in [webpack/webpack.js.org](https://github.com//webpack/webpack.js.org)
+5. 🗣 Commented on [#187](https://github.com//madlabsinc/mevn-cli/issues/187) in [madlabsinc/mevn-cli](https://github.com//madlabsinc/mevn-cli)
 <!--END_SECTION:activity-->
 
 ---
