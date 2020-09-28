@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#8](https://github.com/hoppscotch/hopp-doc-gen/issues/8) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
-2. 🎉 Merged PR [#10](https://github.com/hoppscotch/hopp-doc-gen/pull/10) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
-3. ❗️ Closed issue [#8](https://github.com/hoppscotch/hopp-doc-gen/issues/8) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
-4. ❗️ Closed issue [#187](https://github.com/madlabsinc/mevn-cli/issues/187) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-5. 🗣 Commented on [#187](https://github.com/madlabsinc/mevn-cli/issues/187) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
+1. 🗣 Commented on [#4007](https://github.com/webpack/webpack.js.org/issues/4007) in [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org)
+2. ❗️ Reopened issue [#8](https://github.com/hoppscotch/hopp-doc-gen/issues/8) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
+3. 🎉 Merged PR [#10](https://github.com/hoppscotch/hopp-doc-gen/pull/10) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
+4. ❗️ Closed issue [#8](https://github.com/hoppscotch/hopp-doc-gen/issues/8) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
+5. ❗️ Closed issue [#187](https://github.com/madlabsinc/mevn-cli/issues/187) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
 <!--END_SECTION:activity-->
 
 ---
