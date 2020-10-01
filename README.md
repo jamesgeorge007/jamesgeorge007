@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#188](https://github.com/madlabsinc/mevn-cli/pull/188) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-2. 💪 Opened PR [#464](https://github.com/storyblok/storyblok/pull/464) in [storyblok/storyblok](https://github.com/storyblok/storyblok)
-3. 💪 Opened PR [#846](https://github.com/qawolf/qawolf/pull/846) in [qawolf/qawolf](https://github.com/qawolf/qawolf)
-4. 💪 Opened PR [#17507](https://github.com/vercel/next.js/pull/17507) in [vercel/next.js](https://github.com/vercel/next.js)
-5. 💪 Opened PR [#4010](https://github.com/webpack/webpack.js.org/pull/4010) in [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org)
+1. 🎉 Merged PR [#17](https://github.com/jamesgeorge007/scaffold-static/pull/17) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
+2. 💪 Opened PR [#188](https://github.com/madlabsinc/mevn-cli/pull/188) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
+3. 💪 Opened PR [#464](https://github.com/storyblok/storyblok/pull/464) in [storyblok/storyblok](https://github.com/storyblok/storyblok)
+4. 💪 Opened PR [#846](https://github.com/qawolf/qawolf/pull/846) in [qawolf/qawolf](https://github.com/qawolf/qawolf)
+5. 💪 Opened PR [#17507](https://github.com/vercel/next.js/pull/17507) in [vercel/next.js](https://github.com/vercel/next.js)
 <!--END_SECTION:activity-->
 
 ---
