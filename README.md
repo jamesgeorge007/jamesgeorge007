@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1893](https://github.com/webpack/webpack-cli/pull/1893) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-2. 💪 Opened PR [#1873](https://github.com/webpack/webpack-cli/pull/1873) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-3. 🎉 Merged PR [#1865](https://github.com/webpack/webpack-cli/pull/1865) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-4. 🎉 Merged PR [#17](https://github.com/jamesgeorge007/scaffold-static/pull/17) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
-5. 💪 Opened PR [#188](https://github.com/madlabsinc/mevn-cli/pull/188) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
+1. ❗️ Opened issue [#1901](https://github.com/webpack/webpack-cli/issues/1901) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+2. 💪 Opened PR [#1893](https://github.com/webpack/webpack-cli/pull/1893) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+3. 💪 Opened PR [#1873](https://github.com/webpack/webpack-cli/pull/1873) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+4. 🎉 Merged PR [#1865](https://github.com/webpack/webpack-cli/pull/1865) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+5. 🎉 Merged PR [#17](https://github.com/jamesgeorge007/scaffold-static/pull/17) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
 <!--END_SECTION:activity-->
 
 ---
