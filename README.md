@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#138](https://github.com/madlabsinc/mevn-cli/issues/138) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-2. 💪 Opened PR [#230](https://github.com/Nexmo/nexmo-cli/pull/230) in [Nexmo/nexmo-cli](https://github.com/Nexmo/nexmo-cli)
-3. 🎉 Merged PR [#92](https://github.com/madlabsinc/teachcode/pull/92) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-4. 🎉 Merged PR [#1905](https://github.com/webpack/webpack-cli/pull/1905) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-5. 💪 Opened PR [#1905](https://github.com/webpack/webpack-cli/pull/1905) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+1. 🗣 Commented on [#191](https://github.com/madlabsinc/mevn-cli/issues/191) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
+2. ❗️ Opened issue [#191](https://github.com/madlabsinc/mevn-cli/issues/191) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
+3. 🗣 Commented on [#138](https://github.com/madlabsinc/mevn-cli/issues/138) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
+4. 💪 Opened PR [#230](https://github.com/Nexmo/nexmo-cli/pull/230) in [Nexmo/nexmo-cli](https://github.com/Nexmo/nexmo-cli)
+5. 🎉 Merged PR [#92](https://github.com/madlabsinc/teachcode/pull/92) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
 <!--END_SECTION:activity-->
 
 ---
