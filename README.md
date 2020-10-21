@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#193](https://github.com/madlabsinc/mevn-cli/issues/193) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-2. 🗣 Commented on [#12799](https://github.com/storybookjs/storybook/issues/12799) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-3. 🗣 Commented on [#94](https://github.com/madlabsinc/teachcode/issues/94) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-4. 🗣 Commented on [#12799](https://github.com/storybookjs/storybook/issues/12799) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-5. 💪 Opened PR [#12799](https://github.com/storybookjs/storybook/pull/12799) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+1. 🎉 Merged PR [#194](https://github.com/madlabsinc/mevn-cli/pull/194) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
+2. 🗣 Commented on [#193](https://github.com/madlabsinc/mevn-cli/issues/193) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
+3. 🗣 Commented on [#12799](https://github.com/storybookjs/storybook/issues/12799) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+4. 🗣 Commented on [#94](https://github.com/madlabsinc/teachcode/issues/94) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+5. 🗣 Commented on [#12799](https://github.com/storybookjs/storybook/issues/12799) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
 <!--END_SECTION:activity-->
 
 ---
