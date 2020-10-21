@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#195](https://github.com/madlabsinc/mevn-cli/pull/195) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-2. 💪 Opened PR [#195](https://github.com/madlabsinc/mevn-cli/pull/195) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-3. 🎉 Merged PR [#194](https://github.com/madlabsinc/mevn-cli/pull/194) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-4. 🗣 Commented on [#193](https://github.com/madlabsinc/mevn-cli/issues/193) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-5. 🗣 Commented on [#12799](https://github.com/storybookjs/storybook/issues/12799) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+1. 🎉 Merged PR [#197](https://github.com/madlabsinc/mevn-cli/pull/197) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
+2. 🎉 Merged PR [#1972](https://github.com/webpack/webpack-cli/pull/1972) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+3. ❗️ Closed issue [#1917](https://github.com/webpack/webpack-cli/issues/1917) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+4. 🎉 Merged PR [#195](https://github.com/madlabsinc/mevn-cli/pull/195) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
+5. 💪 Opened PR [#195](https://github.com/madlabsinc/mevn-cli/pull/195) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
 <!--END_SECTION:activity-->
 
 ---
