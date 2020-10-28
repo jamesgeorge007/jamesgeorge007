@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/jamesgeorge007/nuxt-modules-cli/issues/1) in [jamesgeorge007/nuxt-modules-cli](https://github.com/jamesgeorge007/nuxt-modules-cli)
-2. 🎉 Merged PR [#1](https://github.com/jamesgeorge007/nuxt-modules-cli/pull/1) in [jamesgeorge007/nuxt-modules-cli](https://github.com/jamesgeorge007/nuxt-modules-cli)
-3. 🎉 Merged PR [#198](https://github.com/madlabsinc/mevn-cli/pull/198) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-4. ❗️ Closed issue [#193](https://github.com/madlabsinc/mevn-cli/issues/193) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-5. 🎉 Merged PR [#190](https://github.com/madlabsinc/mevn-cli/pull/190) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
+1. 💪 Opened PR [#12936](https://github.com/storybookjs/storybook/pull/12936) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+2. 🗣 Commented on [#1](https://github.com/jamesgeorge007/nuxt-modules-cli/issues/1) in [jamesgeorge007/nuxt-modules-cli](https://github.com/jamesgeorge007/nuxt-modules-cli)
+3. 🎉 Merged PR [#1](https://github.com/jamesgeorge007/nuxt-modules-cli/pull/1) in [jamesgeorge007/nuxt-modules-cli](https://github.com/jamesgeorge007/nuxt-modules-cli)
+4. 🎉 Merged PR [#198](https://github.com/madlabsinc/mevn-cli/pull/198) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
+5. ❗️ Closed issue [#193](https://github.com/madlabsinc/mevn-cli/issues/193) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
 <!--END_SECTION:activity-->
 
 ---
