@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18833](https://github.com/vercel/next.js/pull/18833) in [vercel/next.js](https://github.com/vercel/next.js)
-2. 🎉 Merged PR [#201](https://github.com/madlabsinc/mevn-cli/pull/201) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-3. 🎉 Merged PR [#200](https://github.com/madlabsinc/mevn-cli/pull/200) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-4. ❗️ Closed issue [#196](https://github.com/madlabsinc/mevn-cli/issues/196) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-5. 🎉 Merged PR [#2010](https://github.com/webpack/webpack-cli/pull/2010) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+1. 🗣 Commented on [#2021](https://github.com/webpack/webpack-cli/issues/2021) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+2. 🗣 Commented on [#2021](https://github.com/webpack/webpack-cli/issues/2021) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+3. 💪 Opened PR [#18833](https://github.com/vercel/next.js/pull/18833) in [vercel/next.js](https://github.com/vercel/next.js)
+4. 🎉 Merged PR [#201](https://github.com/madlabsinc/mevn-cli/pull/201) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
+5. 🎉 Merged PR [#200](https://github.com/madlabsinc/mevn-cli/pull/200) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
 <!--END_SECTION:activity-->
 
 ---
