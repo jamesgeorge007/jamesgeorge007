@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18939](https://github.com/vercel/next.js/pull/18939) in [vercel/next.js](https://github.com/vercel/next.js)
-2. 💪 Opened PR [#2050](https://github.com/webpack/webpack-cli/pull/2050) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-3. 🗣 Commented on [#2021](https://github.com/webpack/webpack-cli/issues/2021) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-4. 🗣 Commented on [#2021](https://github.com/webpack/webpack-cli/issues/2021) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-5. 💪 Opened PR [#18833](https://github.com/vercel/next.js/pull/18833) in [vercel/next.js](https://github.com/vercel/next.js)
+1. 💪 Opened PR [#2073](https://github.com/webpack/webpack-cli/pull/2073) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+2. 💪 Opened PR [#2072](https://github.com/webpack/webpack-cli/pull/2072) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+3. 💪 Opened PR [#18939](https://github.com/vercel/next.js/pull/18939) in [vercel/next.js](https://github.com/vercel/next.js)
+4. 💪 Opened PR [#2050](https://github.com/webpack/webpack-cli/pull/2050) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+5. 🗣 Commented on [#2021](https://github.com/webpack/webpack-cli/issues/2021) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
 <!--END_SECTION:activity-->
 
 ---
