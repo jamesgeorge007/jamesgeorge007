@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#126](https://github.com/docsifyjs/docsify-cli/issues/126) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
-2. 🎉 Merged PR [#97](https://github.com/madlabsinc/teachcode/pull/97) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-3. 💪 Opened PR [#97](https://github.com/madlabsinc/teachcode/pull/97) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-4. 🎉 Merged PR [#95](https://github.com/madlabsinc/teachcode/pull/95) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-5. ❗️ Closed issue [#94](https://github.com/madlabsinc/teachcode/issues/94) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+1. 🗣 Commented on [#40](https://github.com/jamesgeorge007/github-activity-readme/issues/40) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. 🗣 Commented on [#126](https://github.com/docsifyjs/docsify-cli/issues/126) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+3. 🎉 Merged PR [#97](https://github.com/madlabsinc/teachcode/pull/97) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+4. 💪 Opened PR [#97](https://github.com/madlabsinc/teachcode/pull/97) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+5. 🎉 Merged PR [#95](https://github.com/madlabsinc/teachcode/pull/95) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
 <!--END_SECTION:activity-->
 
 ---
