@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#95](https://github.com/madlabsinc/teachcode/pull/95) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-2. ❗️ Closed issue [#94](https://github.com/madlabsinc/teachcode/issues/94) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-3. 🎉 Merged PR [#96](https://github.com/madlabsinc/teachcode/pull/96) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-4. 💪 Opened PR [#96](https://github.com/madlabsinc/teachcode/pull/96) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-5. 🎉 Merged PR [#202](https://github.com/madlabsinc/mevn-cli/pull/202) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
+1. 💪 Opened PR [#97](https://github.com/madlabsinc/teachcode/pull/97) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+2. 🎉 Merged PR [#95](https://github.com/madlabsinc/teachcode/pull/95) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+3. ❗️ Closed issue [#94](https://github.com/madlabsinc/teachcode/issues/94) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+4. 🎉 Merged PR [#96](https://github.com/madlabsinc/teachcode/pull/96) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+5. 💪 Opened PR [#96](https://github.com/madlabsinc/teachcode/pull/96) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
 <!--END_SECTION:activity-->
 
 ---
