@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41](https://github.com/jamesgeorge007/github-activity-readme/issues/41) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🎉 Merged PR [#41](https://github.com/jamesgeorge007/github-activity-readme/pull/41) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. 🎉 Merged PR [#38](https://github.com/jamesgeorge007/github-activity-readme/pull/38) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. 🗣 Commented on [#40](https://github.com/jamesgeorge007/github-activity-readme/issues/40) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. 🎉 Merged PR [#40](https://github.com/jamesgeorge007/github-activity-readme/pull/40) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. 🎉 Merged PR [#98](https://github.com/madlabsinc/teachcode/pull/98) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+2. 🗣 Commented on [#41](https://github.com/jamesgeorge007/github-activity-readme/issues/41) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+3. 🎉 Merged PR [#41](https://github.com/jamesgeorge007/github-activity-readme/pull/41) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+4. 🎉 Merged PR [#38](https://github.com/jamesgeorge007/github-activity-readme/pull/38) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+5. 🗣 Commented on [#40](https://github.com/jamesgeorge007/github-activity-readme/issues/40) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 ---
