@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#99](https://github.com/madlabsinc/teachcode/pull/99) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-2. 🎉 Merged PR [#98](https://github.com/madlabsinc/teachcode/pull/98) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-3. 🗣 Commented on [#41](https://github.com/jamesgeorge007/github-activity-readme/issues/41) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. 🎉 Merged PR [#41](https://github.com/jamesgeorge007/github-activity-readme/pull/41) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. 🎉 Merged PR [#38](https://github.com/jamesgeorge007/github-activity-readme/pull/38) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. 💪 Opened PR [#6079](https://github.com/vuejs/vue-cli/pull/6079) in [vuejs/vue-cli](https://github.com/vuejs/vue-cli)
+2. 💪 Opened PR [#1321](https://github.com/react-native-community/cli/pull/1321) in [react-native-community/cli](https://github.com/react-native-community/cli)
+3. 🎉 Merged PR [#99](https://github.com/madlabsinc/teachcode/pull/99) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+4. 🎉 Merged PR [#98](https://github.com/madlabsinc/teachcode/pull/98) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+5. 🗣 Commented on [#41](https://github.com/jamesgeorge007/github-activity-readme/issues/41) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 ---
