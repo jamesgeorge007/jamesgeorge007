@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#204](https://github.com/madlabsinc/mevn-cli/pull/204) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-2. 💪 Opened PR [#6079](https://github.com/vuejs/vue-cli/pull/6079) in [vuejs/vue-cli](https://github.com/vuejs/vue-cli)
-3. 💪 Opened PR [#1321](https://github.com/react-native-community/cli/pull/1321) in [react-native-community/cli](https://github.com/react-native-community/cli)
-4. 🎉 Merged PR [#99](https://github.com/madlabsinc/teachcode/pull/99) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-5. 🎉 Merged PR [#98](https://github.com/madlabsinc/teachcode/pull/98) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+1. 💪 Opened PR [#1322](https://github.com/react-native-community/cli/pull/1322) in [react-native-community/cli](https://github.com/react-native-community/cli)
+2. 🎉 Merged PR [#204](https://github.com/madlabsinc/mevn-cli/pull/204) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
+3. 💪 Opened PR [#6079](https://github.com/vuejs/vue-cli/pull/6079) in [vuejs/vue-cli](https://github.com/vuejs/vue-cli)
+4. 💪 Opened PR [#1321](https://github.com/react-native-community/cli/pull/1321) in [react-native-community/cli](https://github.com/react-native-community/cli)
+5. 🎉 Merged PR [#99](https://github.com/madlabsinc/teachcode/pull/99) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
 <!--END_SECTION:activity-->
 
 ---
