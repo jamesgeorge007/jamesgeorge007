@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1329](https://github.com/react-native-community/cli/pull/1329) in [react-native-community/cli](https://github.com/react-native-community/cli)
-2. ❗️ Closed issue [#1323](https://github.com/react-native-community/cli/issues/1323) in [react-native-community/cli](https://github.com/react-native-community/cli)
-3. 🗣 Commented on [#1323](https://github.com/react-native-community/cli/issues/1323) in [react-native-community/cli](https://github.com/react-native-community/cli)
-4. 🗣 Commented on [#1328](https://github.com/react-native-community/cli/issues/1328) in [react-native-community/cli](https://github.com/react-native-community/cli)
-5. 🗣 Commented on [#1324](https://github.com/react-native-community/cli/issues/1324) in [react-native-community/cli](https://github.com/react-native-community/cli)
+1. 💪 Opened PR [#1330](https://github.com/react-native-community/cli/pull/1330) in [react-native-community/cli](https://github.com/react-native-community/cli)
+2. 💪 Opened PR [#1329](https://github.com/react-native-community/cli/pull/1329) in [react-native-community/cli](https://github.com/react-native-community/cli)
+3. ❗️ Closed issue [#1323](https://github.com/react-native-community/cli/issues/1323) in [react-native-community/cli](https://github.com/react-native-community/cli)
+4. 🗣 Commented on [#1323](https://github.com/react-native-community/cli/issues/1323) in [react-native-community/cli](https://github.com/react-native-community/cli)
+5. 🗣 Commented on [#1328](https://github.com/react-native-community/cli/issues/1328) in [react-native-community/cli](https://github.com/react-native-community/cli)
 <!--END_SECTION:activity-->
 
 ---
