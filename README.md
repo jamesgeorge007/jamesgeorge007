@@ -15,9 +15,9 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#13318](https://github.com/storybookjs/storybook/issues/13318) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
 2. 🗣 Commented on [#13318](https://github.com/storybookjs/storybook/issues/13318) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-3. 🗣 Commented on [#1333](https://github.com/react-native-community/cli/issues/1333) in [react-native-community/cli](https://github.com/react-native-community/cli)
-4. 🗣 Commented on [#12936](https://github.com/storybookjs/storybook/issues/12936) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-5. ❗️ Opened issue [#1333](https://github.com/react-native-community/cli/issues/1333) in [react-native-community/cli](https://github.com/react-native-community/cli)
+3. 🗣 Commented on [#13318](https://github.com/storybookjs/storybook/issues/13318) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+4. 🗣 Commented on [#1333](https://github.com/react-native-community/cli/issues/1333) in [react-native-community/cli](https://github.com/react-native-community/cli)
+5. 🗣 Commented on [#12936](https://github.com/storybookjs/storybook/issues/12936) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
 <!--END_SECTION:activity-->
 
 ---
