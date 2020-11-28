@@ -13,10 +13,10 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13318](https://github.com/storybookjs/storybook/issues/13318) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-2. 💪 Opened PR [#632](https://github.com/frontity/frontity/pull/632) in [frontity/frontity](https://github.com/frontity/frontity)
-3. 💪 Opened PR [#759](https://github.com/callstack/haul/pull/759) in [callstack/haul](https://github.com/callstack/haul)
-4. 🗣 Commented on [#13318](https://github.com/storybookjs/storybook/issues/13318) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+1. 💪 Opened PR [#633](https://github.com/frontity/frontity/pull/633) in [frontity/frontity](https://github.com/frontity/frontity)
+2. 🗣 Commented on [#13318](https://github.com/storybookjs/storybook/issues/13318) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+3. 💪 Opened PR [#632](https://github.com/frontity/frontity/pull/632) in [frontity/frontity](https://github.com/frontity/frontity)
+4. 💪 Opened PR [#759](https://github.com/callstack/haul/pull/759) in [callstack/haul](https://github.com/callstack/haul)
 5. 🗣 Commented on [#13318](https://github.com/storybookjs/storybook/issues/13318) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
 <!--END_SECTION:activity-->
 
