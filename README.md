@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/jamesgeorge007/csstox/pull/14) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
-2. 🗣 Commented on [#28](https://github.com/jamesgeorge007/scaffold-static/issues/28) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
-3. 🎉 Merged PR [#28](https://github.com/jamesgeorge007/scaffold-static/pull/28) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
-4. 🎉 Merged PR [#27](https://github.com/jamesgeorge007/scaffold-static/pull/27) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
-5. 💪 Opened PR [#27](https://github.com/jamesgeorge007/scaffold-static/pull/27) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
+1. 🎉 Merged PR [#29](https://github.com/jamesgeorge007/scaffold-static/pull/29) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
+2. 💪 Opened PR [#29](https://github.com/jamesgeorge007/scaffold-static/pull/29) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
+3. 🎉 Merged PR [#14](https://github.com/jamesgeorge007/csstox/pull/14) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
+4. 🗣 Commented on [#28](https://github.com/jamesgeorge007/scaffold-static/issues/28) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
+5. 🎉 Merged PR [#28](https://github.com/jamesgeorge007/scaffold-static/pull/28) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
 <!--END_SECTION:activity-->
 
 ---
