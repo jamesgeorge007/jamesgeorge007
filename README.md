@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#207](https://github.com/madlabsinc/mevn-cli/issues/207) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-2. 🎉 Merged PR [#211](https://github.com/madlabsinc/mevn-cli/pull/211) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-3. 🎉 Merged PR [#29](https://github.com/jamesgeorge007/scaffold-static/pull/29) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
-4. 💪 Opened PR [#29](https://github.com/jamesgeorge007/scaffold-static/pull/29) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
-5. 🎉 Merged PR [#14](https://github.com/jamesgeorge007/csstox/pull/14) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
+1. 🗣 Commented on [#212](https://github.com/madlabsinc/mevn-cli/issues/212) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
+2. 🎉 Merged PR [#212](https://github.com/madlabsinc/mevn-cli/pull/212) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
+3. ❗️ Closed issue [#207](https://github.com/madlabsinc/mevn-cli/issues/207) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
+4. 🎉 Merged PR [#211](https://github.com/madlabsinc/mevn-cli/pull/211) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
+5. 🎉 Merged PR [#29](https://github.com/jamesgeorge007/scaffold-static/pull/29) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
 <!--END_SECTION:activity-->
 
 ---
