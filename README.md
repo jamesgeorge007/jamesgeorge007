@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/jamesgeorge007/scaffold-static/pull/30) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
-2. 🎉 Merged PR [#214](https://github.com/madlabsinc/mevn-cli/pull/214) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-3. 💪 Opened PR [#214](https://github.com/madlabsinc/mevn-cli/pull/214) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-4. 🎉 Merged PR [#31](https://github.com/jamesgeorge007/scaffold-static/pull/31) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
-5. 💪 Opened PR [#31](https://github.com/jamesgeorge007/scaffold-static/pull/31) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
+1. 💪 Opened PR [#2297](https://github.com/webpack/webpack-cli/pull/2297) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+2. 🎉 Merged PR [#30](https://github.com/jamesgeorge007/scaffold-static/pull/30) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
+3. 🎉 Merged PR [#214](https://github.com/madlabsinc/mevn-cli/pull/214) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
+4. 💪 Opened PR [#214](https://github.com/madlabsinc/mevn-cli/pull/214) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
+5. 🎉 Merged PR [#31](https://github.com/jamesgeorge007/scaffold-static/pull/31) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
 <!--END_SECTION:activity-->
 
 ---
