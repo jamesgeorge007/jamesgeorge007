@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2335](https://github.com/webpack/webpack-cli/pull/2335) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-2. 🎉 Merged PR [#2327](https://github.com/webpack/webpack-cli/pull/2327) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-3. 💪 Opened PR [#2327](https://github.com/webpack/webpack-cli/pull/2327) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-4. 🎉 Merged PR [#2319](https://github.com/webpack/webpack-cli/pull/2319) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-5. 💪 Opened PR [#2319](https://github.com/webpack/webpack-cli/pull/2319) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+1. 💪 Opened PR [#2338](https://github.com/webpack/webpack-cli/pull/2338) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+2. 💪 Opened PR [#2335](https://github.com/webpack/webpack-cli/pull/2335) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+3. 🎉 Merged PR [#2327](https://github.com/webpack/webpack-cli/pull/2327) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+4. 💪 Opened PR [#2327](https://github.com/webpack/webpack-cli/pull/2327) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+5. 🎉 Merged PR [#2319](https://github.com/webpack/webpack-cli/pull/2319) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
 <!--END_SECTION:activity-->
 
 ---
