@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10381](https://github.com/facebook/create-react-app/pull/10381) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
-2. ❗️ Closed issue [#45](https://github.com/jamesgeorge007/github-activity-readme/issues/45) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. 🗣 Commented on [#45](https://github.com/jamesgeorge007/github-activity-readme/issues/45) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. 💪 Opened PR [#2338](https://github.com/webpack/webpack-cli/pull/2338) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-5. 💪 Opened PR [#2335](https://github.com/webpack/webpack-cli/pull/2335) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+1. 💪 Opened PR [#10384](https://github.com/facebook/create-react-app/pull/10384) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
+2. 💪 Opened PR [#10381](https://github.com/facebook/create-react-app/pull/10381) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
+3. ❗️ Closed issue [#45](https://github.com/jamesgeorge007/github-activity-readme/issues/45) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+4. 🗣 Commented on [#45](https://github.com/jamesgeorge007/github-activity-readme/issues/45) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+5. 💪 Opened PR [#2338](https://github.com/webpack/webpack-cli/pull/2338) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
 <!--END_SECTION:activity-->
 
 ---
