@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/jamesgeorge007/csstox/pull/15) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
-2. 💪 Opened PR [#10384](https://github.com/facebook/create-react-app/pull/10384) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
-3. 💪 Opened PR [#10381](https://github.com/facebook/create-react-app/pull/10381) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
-4. ❗️ Closed issue [#45](https://github.com/jamesgeorge007/github-activity-readme/issues/45) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. 🗣 Commented on [#45](https://github.com/jamesgeorge007/github-activity-readme/issues/45) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. 🗣 Commented on [#101](https://github.com/madlabsinc/teachcode/issues/101) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+2. 🎉 Merged PR [#15](https://github.com/jamesgeorge007/csstox/pull/15) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
+3. 💪 Opened PR [#15](https://github.com/jamesgeorge007/csstox/pull/15) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
+4. 💪 Opened PR [#10384](https://github.com/facebook/create-react-app/pull/10384) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
+5. 💪 Opened PR [#10381](https://github.com/facebook/create-react-app/pull/10381) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
 <!--END_SECTION:activity-->
 
 ---
