@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#101](https://github.com/madlabsinc/teachcode/issues/101) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-2. 🎉 Merged PR [#15](https://github.com/jamesgeorge007/csstox/pull/15) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
-3. 💪 Opened PR [#15](https://github.com/jamesgeorge007/csstox/pull/15) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
-4. 💪 Opened PR [#10384](https://github.com/facebook/create-react-app/pull/10384) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
-5. 💪 Opened PR [#10381](https://github.com/facebook/create-react-app/pull/10381) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
+1. ❌ Closed PR [#11504](https://github.com/webpack/webpack/pull/11504) in [webpack/webpack](https://github.com/webpack/webpack)
+2. 🗣 Commented on [#11504](https://github.com/webpack/webpack/issues/11504) in [webpack/webpack](https://github.com/webpack/webpack)
+3. 🗣 Commented on [#101](https://github.com/madlabsinc/teachcode/issues/101) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+4. 🎉 Merged PR [#15](https://github.com/jamesgeorge007/csstox/pull/15) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
+5. 💪 Opened PR [#15](https://github.com/jamesgeorge007/csstox/pull/15) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
 <!--END_SECTION:activity-->
 
 ---
