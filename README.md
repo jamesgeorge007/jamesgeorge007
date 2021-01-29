@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#103](https://github.com/madlabsinc/teachcode/pull/103) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-2. 🗣 Commented on [#104](https://github.com/madlabsinc/teachcode/issues/104) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-3. 🎉 Merged PR [#104](https://github.com/madlabsinc/teachcode/pull/104) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-4. ❗️ Closed issue [#101](https://github.com/madlabsinc/teachcode/issues/101) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-5. ❌ Closed PR [#11504](https://github.com/webpack/webpack/pull/11504) in [webpack/webpack](https://github.com/webpack/webpack)
+1. 💪 Opened PR [#3](https://github.com/jamesgeorge007/cli-prompts-test/pull/3) in [jamesgeorge007/cli-prompts-test](https://github.com/jamesgeorge007/cli-prompts-test)
+2. 🎉 Merged PR [#103](https://github.com/madlabsinc/teachcode/pull/103) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+3. 🗣 Commented on [#104](https://github.com/madlabsinc/teachcode/issues/104) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+4. 🎉 Merged PR [#104](https://github.com/madlabsinc/teachcode/pull/104) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+5. ❗️ Closed issue [#101](https://github.com/madlabsinc/teachcode/issues/101) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
 <!--END_SECTION:activity-->
 
 ---
