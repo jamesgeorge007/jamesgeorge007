@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/jamesgeorge007/cli-prompts-test/pull/3) in [jamesgeorge007/cli-prompts-test](https://github.com/jamesgeorge007/cli-prompts-test)
-2. 🎉 Merged PR [#103](https://github.com/madlabsinc/teachcode/pull/103) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-3. 🗣 Commented on [#104](https://github.com/madlabsinc/teachcode/issues/104) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-4. 🎉 Merged PR [#104](https://github.com/madlabsinc/teachcode/pull/104) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-5. ❗️ Closed issue [#101](https://github.com/madlabsinc/teachcode/issues/101) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+1. ❌ Reopened PR [#210](https://github.com/madlabsinc/mevn-cli/pull/210) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
+2. ❌ Closed PR [#210](https://github.com/madlabsinc/mevn-cli/pull/210) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
+3. 🎉 Merged PR [#2](https://github.com/jamesgeorge007/cli-prompts-test/pull/2) in [jamesgeorge007/cli-prompts-test](https://github.com/jamesgeorge007/cli-prompts-test)
+4. 🎉 Merged PR [#3](https://github.com/jamesgeorge007/cli-prompts-test/pull/3) in [jamesgeorge007/cli-prompts-test](https://github.com/jamesgeorge007/cli-prompts-test)
+5. 💪 Opened PR [#3](https://github.com/jamesgeorge007/cli-prompts-test/pull/3) in [jamesgeorge007/cli-prompts-test](https://github.com/jamesgeorge007/cli-prompts-test)
 <!--END_SECTION:activity-->
 
 ---
