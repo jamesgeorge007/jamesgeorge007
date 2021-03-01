@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#217](https://github.com/madlabsinc/mevn-cli/pull/217) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-2. 💪 Opened PR [#217](https://github.com/madlabsinc/mevn-cli/pull/217) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-3. 🎉 Merged PR [#216](https://github.com/madlabsinc/mevn-cli/pull/216) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-4. 💪 Opened PR [#216](https://github.com/madlabsinc/mevn-cli/pull/216) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-5. 💪 Opened PR [#2103](https://github.com/vitejs/vite/pull/2103) in [vitejs/vite](https://github.com/vitejs/vite)
+1. 🎉 Merged PR [#12](https://github.com/hoppscotch/hopp-doc-gen/pull/12) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
+2. 🎉 Merged PR [#217](https://github.com/madlabsinc/mevn-cli/pull/217) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
+3. 💪 Opened PR [#217](https://github.com/madlabsinc/mevn-cli/pull/217) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
+4. 🎉 Merged PR [#216](https://github.com/madlabsinc/mevn-cli/pull/216) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
+5. 💪 Opened PR [#216](https://github.com/madlabsinc/mevn-cli/pull/216) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
 <!--END_SECTION:activity-->
 
 ---
