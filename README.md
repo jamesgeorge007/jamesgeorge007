@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](https://github.com/hoppscotch/hopp-doc-gen/pull/32) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
-2. 🗣 Commented on [#31](https://github.com/hoppscotch/hopp-doc-gen/issues/31) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
-3. 🎉 Merged PR [#30](https://github.com/hoppscotch/hopp-doc-gen/pull/30) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
-4. 🗣 Commented on [#21](https://github.com/hoppscotch/hopp-doc-gen/issues/21) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
-5. 🎉 Merged PR [#28](https://github.com/hoppscotch/hopp-doc-gen/pull/28) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
+1. 🎉 Merged PR [#33](https://github.com/hoppscotch/hopp-doc-gen/pull/33) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
+2. ❌ Closed PR [#31](https://github.com/hoppscotch/hopp-doc-gen/pull/31) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
+3. 💪 Opened PR [#33](https://github.com/hoppscotch/hopp-doc-gen/pull/33) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
+4. 🎉 Merged PR [#32](https://github.com/hoppscotch/hopp-doc-gen/pull/32) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
+5. 💪 Opened PR [#32](https://github.com/hoppscotch/hopp-doc-gen/pull/32) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
 <!--END_SECTION:activity-->
 
 ---
