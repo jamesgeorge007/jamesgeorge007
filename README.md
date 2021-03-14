@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#546](https://github.com/microsoft/vscode-vsce/pull/546) in [microsoft/vscode-vsce](https://github.com/microsoft/vscode-vsce)
-2. 💪 Opened PR [#1533](https://github.com/hoppscotch/hoppscotch/pull/1533) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-3. 🎉 Merged PR [#11](https://github.com/hoppscotch/hopp-doc-gen/pull/11) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
-4. ❗️ Closed issue [#1](https://github.com/hoppscotch/hopp-doc-gen/issues/1) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
-5. 🎉 Merged PR [#34](https://github.com/hoppscotch/hopp-doc-gen/pull/34) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
+1. 🎉 Merged PR [#37](https://github.com/hoppscotch/hopp-doc-gen/pull/37) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
+2. 💪 Opened PR [#546](https://github.com/microsoft/vscode-vsce/pull/546) in [microsoft/vscode-vsce](https://github.com/microsoft/vscode-vsce)
+3. 💪 Opened PR [#1533](https://github.com/hoppscotch/hoppscotch/pull/1533) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+4. 🎉 Merged PR [#11](https://github.com/hoppscotch/hopp-doc-gen/pull/11) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
+5. ❗️ Closed issue [#1](https://github.com/hoppscotch/hopp-doc-gen/issues/1) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
 <!--END_SECTION:activity-->
 
 ---
