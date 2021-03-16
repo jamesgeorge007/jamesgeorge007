@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#137](https://github.com/docsifyjs/docsify-cli/pull/137) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
-2. 🎉 Merged PR [#37](https://github.com/hoppscotch/hopp-doc-gen/pull/37) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
-3. 💪 Opened PR [#546](https://github.com/microsoft/vscode-vsce/pull/546) in [microsoft/vscode-vsce](https://github.com/microsoft/vscode-vsce)
-4. 💪 Opened PR [#1533](https://github.com/hoppscotch/hoppscotch/pull/1533) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-5. 🎉 Merged PR [#11](https://github.com/hoppscotch/hopp-doc-gen/pull/11) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
+1. 💪 Opened PR [#4733](https://github.com/webpack/webpack.js.org/pull/4733) in [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org)
+2. 💪 Opened PR [#137](https://github.com/docsifyjs/docsify-cli/pull/137) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+3. 🎉 Merged PR [#37](https://github.com/hoppscotch/hopp-doc-gen/pull/37) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
+4. 💪 Opened PR [#546](https://github.com/microsoft/vscode-vsce/pull/546) in [microsoft/vscode-vsce](https://github.com/microsoft/vscode-vsce)
+5. 💪 Opened PR [#1533](https://github.com/hoppscotch/hoppscotch/pull/1533) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
 <!--END_SECTION:activity-->
 
 ---
