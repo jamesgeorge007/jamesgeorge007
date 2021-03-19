@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#138](https://github.com/docsifyjs/docsify-cli/pull/138) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
-2. 🎉 Merged PR [#137](https://github.com/docsifyjs/docsify-cli/pull/137) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
-3. 💪 Opened PR [#4733](https://github.com/webpack/webpack.js.org/pull/4733) in [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org)
-4. 💪 Opened PR [#137](https://github.com/docsifyjs/docsify-cli/pull/137) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
-5. 🎉 Merged PR [#37](https://github.com/hoppscotch/hopp-doc-gen/pull/37) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
+1. 🎉 Merged PR [#2510](https://github.com/webpack/webpack-cli/pull/2510) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+2. 🎉 Merged PR [#138](https://github.com/docsifyjs/docsify-cli/pull/138) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+3. 🎉 Merged PR [#137](https://github.com/docsifyjs/docsify-cli/pull/137) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+4. 💪 Opened PR [#4733](https://github.com/webpack/webpack.js.org/pull/4733) in [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org)
+5. 💪 Opened PR [#137](https://github.com/docsifyjs/docsify-cli/pull/137) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
 <!--END_SECTION:activity-->
 
 ---
