@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2581](https://github.com/webpack/webpack-cli/pull/2581) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-2. 🎉 Merged PR [#141](https://github.com/docsifyjs/docsify-cli/pull/141) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
-3. 💪 Opened PR [#3126](https://github.com/webpack/webpack-dev-server/pull/3126) in [webpack/webpack-dev-server](https://github.com/webpack/webpack-dev-server)
-4. 💪 Opened PR [#2576](https://github.com/webpack/webpack-cli/pull/2576) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-5. 💪 Opened PR [#2574](https://github.com/webpack/webpack-cli/pull/2574) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+1. ❌ Closed PR [#2581](https://github.com/webpack/webpack-cli/pull/2581) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+2. 🗣 Commented on [#2581](https://github.com/webpack/webpack-cli/issues/2581) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+3. 💪 Opened PR [#2581](https://github.com/webpack/webpack-cli/pull/2581) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+4. 🎉 Merged PR [#141](https://github.com/docsifyjs/docsify-cli/pull/141) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+5. 💪 Opened PR [#3126](https://github.com/webpack/webpack-dev-server/pull/3126) in [webpack/webpack-dev-server](https://github.com/webpack/webpack-dev-server)
 <!--END_SECTION:activity-->
 
 ---
