@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2590](https://github.com/webpack/webpack-cli/pull/2590) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-2. 🎉 Merged PR [#2576](https://github.com/webpack/webpack-cli/pull/2576) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-3. 🎉 Merged PR [#105](https://github.com/madlabsinc/teachcode/pull/105) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-4. 🎉 Merged PR [#106](https://github.com/madlabsinc/teachcode/pull/106) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-5. 🎉 Merged PR [#107](https://github.com/madlabsinc/teachcode/pull/107) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+1. 💪 Opened PR [#4807](https://github.com/webpack/webpack.js.org/pull/4807) in [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org)
+2. 🎉 Merged PR [#2590](https://github.com/webpack/webpack-cli/pull/2590) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+3. 🎉 Merged PR [#2576](https://github.com/webpack/webpack-cli/pull/2576) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+4. 🎉 Merged PR [#105](https://github.com/madlabsinc/teachcode/pull/105) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+5. 🎉 Merged PR [#106](https://github.com/madlabsinc/teachcode/pull/106) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
 <!--END_SECTION:activity-->
 
 ---
