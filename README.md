@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2635](https://github.com/webpack/webpack-cli/pull/2635) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-2. 💪 Opened PR [#4874](https://github.com/webpack/webpack.js.org/pull/4874) in [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org)
-3. 💪 Opened PR [#13140](https://github.com/webpack/webpack/pull/13140) in [webpack/webpack](https://github.com/webpack/webpack)
-4. 💪 Opened PR [#24048](https://github.com/vercel/next.js/pull/24048) in [vercel/next.js](https://github.com/vercel/next.js)
-5. 🎉 Merged PR [#2622](https://github.com/webpack/webpack-cli/pull/2622) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+1. 🎉 Merged PR [#2635](https://github.com/webpack/webpack-cli/pull/2635) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+2. 💪 Opened PR [#2635](https://github.com/webpack/webpack-cli/pull/2635) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+3. 💪 Opened PR [#4874](https://github.com/webpack/webpack.js.org/pull/4874) in [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org)
+4. 💪 Opened PR [#13140](https://github.com/webpack/webpack/pull/13140) in [webpack/webpack](https://github.com/webpack/webpack)
+5. 💪 Opened PR [#24048](https://github.com/vercel/next.js/pull/24048) in [vercel/next.js](https://github.com/vercel/next.js)
 <!--END_SECTION:activity-->
 
 ---
