@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/hoppscotch/hopp-doc-gen/pull/39) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
-2. ❗️ Closed issue [#38](https://github.com/hoppscotch/hopp-doc-gen/issues/38) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
-3. 🎉 Merged PR [#2637](https://github.com/webpack/webpack-cli/pull/2637) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-4. 🎉 Merged PR [#2638](https://github.com/webpack/webpack-cli/pull/2638) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-5. 💪 Opened PR [#2638](https://github.com/webpack/webpack-cli/pull/2638) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+1. 💪 Opened PR [#4888](https://github.com/webpack/webpack.js.org/pull/4888) in [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org)
+2. 🎉 Merged PR [#39](https://github.com/hoppscotch/hopp-doc-gen/pull/39) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
+3. ❗️ Closed issue [#38](https://github.com/hoppscotch/hopp-doc-gen/issues/38) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
+4. 🎉 Merged PR [#2637](https://github.com/webpack/webpack-cli/pull/2637) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+5. 🎉 Merged PR [#2638](https://github.com/webpack/webpack-cli/pull/2638) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
 <!--END_SECTION:activity-->
 
 ---
