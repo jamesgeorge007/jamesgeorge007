@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#774](https://github.com/nuxt/create-nuxt-app/pull/774) in [nuxt/create-nuxt-app](https://github.com/nuxt/create-nuxt-app)
-2. 💪 Opened PR [#773](https://github.com/nuxt/create-nuxt-app/pull/773) in [nuxt/create-nuxt-app](https://github.com/nuxt/create-nuxt-app)
-3. 💪 Opened PR [#4888](https://github.com/webpack/webpack.js.org/pull/4888) in [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org)
-4. 🎉 Merged PR [#39](https://github.com/hoppscotch/hopp-doc-gen/pull/39) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
-5. ❗️ Closed issue [#38](https://github.com/hoppscotch/hopp-doc-gen/issues/38) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
+1. 🗣 Commented on [#774](https://github.com/nuxt/create-nuxt-app/issues/774) in [nuxt/create-nuxt-app](https://github.com/nuxt/create-nuxt-app)
+2. 💪 Opened PR [#774](https://github.com/nuxt/create-nuxt-app/pull/774) in [nuxt/create-nuxt-app](https://github.com/nuxt/create-nuxt-app)
+3. 💪 Opened PR [#773](https://github.com/nuxt/create-nuxt-app/pull/773) in [nuxt/create-nuxt-app](https://github.com/nuxt/create-nuxt-app)
+4. 💪 Opened PR [#4888](https://github.com/webpack/webpack.js.org/pull/4888) in [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org)
+5. 🎉 Merged PR [#39](https://github.com/hoppscotch/hopp-doc-gen/pull/39) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
 <!--END_SECTION:activity-->
 
 ---
