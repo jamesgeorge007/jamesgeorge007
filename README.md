@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2645](https://github.com/webpack/webpack-cli/pull/2645) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-2. 💪 Opened PR [#24251](https://github.com/vercel/next.js/pull/24251) in [vercel/next.js](https://github.com/vercel/next.js)
-3. 🗣 Commented on [#774](https://github.com/nuxt/create-nuxt-app/issues/774) in [nuxt/create-nuxt-app](https://github.com/nuxt/create-nuxt-app)
-4. 💪 Opened PR [#774](https://github.com/nuxt/create-nuxt-app/pull/774) in [nuxt/create-nuxt-app](https://github.com/nuxt/create-nuxt-app)
-5. 💪 Opened PR [#773](https://github.com/nuxt/create-nuxt-app/pull/773) in [nuxt/create-nuxt-app](https://github.com/nuxt/create-nuxt-app)
+1. 💪 Opened PR [#777](https://github.com/nuxt/create-nuxt-app/pull/777) in [nuxt/create-nuxt-app](https://github.com/nuxt/create-nuxt-app)
+2. 💪 Opened PR [#2645](https://github.com/webpack/webpack-cli/pull/2645) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+3. 💪 Opened PR [#24251](https://github.com/vercel/next.js/pull/24251) in [vercel/next.js](https://github.com/vercel/next.js)
+4. 🗣 Commented on [#774](https://github.com/nuxt/create-nuxt-app/issues/774) in [nuxt/create-nuxt-app](https://github.com/nuxt/create-nuxt-app)
+5. 💪 Opened PR [#774](https://github.com/nuxt/create-nuxt-app/pull/774) in [nuxt/create-nuxt-app](https://github.com/nuxt/create-nuxt-app)
 <!--END_SECTION:activity-->
 
 ---
