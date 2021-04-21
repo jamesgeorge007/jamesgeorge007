@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#778](https://github.com/nuxt/create-nuxt-app/pull/778) in [nuxt/create-nuxt-app](https://github.com/nuxt/create-nuxt-app)
-2. 🎉 Merged PR [#2645](https://github.com/webpack/webpack-cli/pull/2645) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-3. 💪 Opened PR [#777](https://github.com/nuxt/create-nuxt-app/pull/777) in [nuxt/create-nuxt-app](https://github.com/nuxt/create-nuxt-app)
-4. 💪 Opened PR [#2645](https://github.com/webpack/webpack-cli/pull/2645) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-5. 💪 Opened PR [#24251](https://github.com/vercel/next.js/pull/24251) in [vercel/next.js](https://github.com/vercel/next.js)
+1. 🗣 Commented on [#778](https://github.com/nuxt/create-nuxt-app/issues/778) in [nuxt/create-nuxt-app](https://github.com/nuxt/create-nuxt-app)
+2. 💪 Opened PR [#778](https://github.com/nuxt/create-nuxt-app/pull/778) in [nuxt/create-nuxt-app](https://github.com/nuxt/create-nuxt-app)
+3. 🎉 Merged PR [#2645](https://github.com/webpack/webpack-cli/pull/2645) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+4. 💪 Opened PR [#777](https://github.com/nuxt/create-nuxt-app/pull/777) in [nuxt/create-nuxt-app](https://github.com/nuxt/create-nuxt-app)
+5. 💪 Opened PR [#2645](https://github.com/webpack/webpack-cli/pull/2645) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
 <!--END_SECTION:activity-->
 
 ---
