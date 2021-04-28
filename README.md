@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2668](https://github.com/webpack/webpack-cli/pull/2668) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-2. 💪 Opened PR [#162](https://github.com/webpack-contrib/npm-install-webpack-plugin/pull/162) in [webpack-contrib/npm-install-webpack-plugin](https://github.com/webpack-contrib/npm-install-webpack-plugin)
-3. ❌ Closed PR [#139](https://github.com/webpack-contrib/npm-install-webpack-plugin/pull/139) in [webpack-contrib/npm-install-webpack-plugin](https://github.com/webpack-contrib/npm-install-webpack-plugin)
-4. 🗣 Commented on [#139](https://github.com/webpack-contrib/npm-install-webpack-plugin/issues/139) in [webpack-contrib/npm-install-webpack-plugin](https://github.com/webpack-contrib/npm-install-webpack-plugin)
-5. 💪 Opened PR [#161](https://github.com/webpack-contrib/npm-install-webpack-plugin/pull/161) in [webpack-contrib/npm-install-webpack-plugin](https://github.com/webpack-contrib/npm-install-webpack-plugin)
+1. 💪 Opened PR [#2674](https://github.com/webpack/webpack-cli/pull/2674) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+2. 🎉 Merged PR [#2668](https://github.com/webpack/webpack-cli/pull/2668) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+3. 💪 Opened PR [#162](https://github.com/webpack-contrib/npm-install-webpack-plugin/pull/162) in [webpack-contrib/npm-install-webpack-plugin](https://github.com/webpack-contrib/npm-install-webpack-plugin)
+4. ❌ Closed PR [#139](https://github.com/webpack-contrib/npm-install-webpack-plugin/pull/139) in [webpack-contrib/npm-install-webpack-plugin](https://github.com/webpack-contrib/npm-install-webpack-plugin)
+5. 🗣 Commented on [#139](https://github.com/webpack-contrib/npm-install-webpack-plugin/issues/139) in [webpack-contrib/npm-install-webpack-plugin](https://github.com/webpack-contrib/npm-install-webpack-plugin)
 <!--END_SECTION:activity-->
 
 ---
