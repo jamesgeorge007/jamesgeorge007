@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/jamesgeorge007/cli-prompts-test/issues/4) in [jamesgeorge007/cli-prompts-test](https://github.com/jamesgeorge007/cli-prompts-test)
-2. 🎉 Merged PR [#108](https://github.com/madlabsinc/teachcode/pull/108) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-3. 🎉 Merged PR [#16](https://github.com/jamesgeorge007/csstox/pull/16) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
-4. 🎉 Merged PR [#17](https://github.com/jamesgeorge007/csstox/pull/17) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
-5. 🎉 Merged PR [#9](https://github.com/jamesgeorge007/node-banner/pull/9) in [jamesgeorge007/node-banner](https://github.com/jamesgeorge007/node-banner)
+1. 🎉 Merged PR [#5](https://github.com/jamesgeorge007/cli-prompts-test/pull/5) in [jamesgeorge007/cli-prompts-test](https://github.com/jamesgeorge007/cli-prompts-test)
+2. 🗣 Commented on [#4](https://github.com/jamesgeorge007/cli-prompts-test/issues/4) in [jamesgeorge007/cli-prompts-test](https://github.com/jamesgeorge007/cli-prompts-test)
+3. 🎉 Merged PR [#108](https://github.com/madlabsinc/teachcode/pull/108) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+4. 🎉 Merged PR [#16](https://github.com/jamesgeorge007/csstox/pull/16) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
+5. 🎉 Merged PR [#17](https://github.com/jamesgeorge007/csstox/pull/17) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
 <!--END_SECTION:activity-->
 
 ---
