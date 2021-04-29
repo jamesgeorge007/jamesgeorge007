@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1486](https://github.com/gridsome/gridsome/pull/1486) in [gridsome/gridsome](https://github.com/gridsome/gridsome)
-2. 💪 Opened PR [#2674](https://github.com/webpack/webpack-cli/pull/2674) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-3. 🎉 Merged PR [#2668](https://github.com/webpack/webpack-cli/pull/2668) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-4. 💪 Opened PR [#162](https://github.com/webpack-contrib/npm-install-webpack-plugin/pull/162) in [webpack-contrib/npm-install-webpack-plugin](https://github.com/webpack-contrib/npm-install-webpack-plugin)
-5. ❌ Closed PR [#139](https://github.com/webpack-contrib/npm-install-webpack-plugin/pull/139) in [webpack-contrib/npm-install-webpack-plugin](https://github.com/webpack-contrib/npm-install-webpack-plugin)
+1. 🗣 Commented on [#4](https://github.com/jamesgeorge007/cli-prompts-test/issues/4) in [jamesgeorge007/cli-prompts-test](https://github.com/jamesgeorge007/cli-prompts-test)
+2. 🎉 Merged PR [#108](https://github.com/madlabsinc/teachcode/pull/108) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+3. 🎉 Merged PR [#16](https://github.com/jamesgeorge007/csstox/pull/16) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
+4. 🎉 Merged PR [#17](https://github.com/jamesgeorge007/csstox/pull/17) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
+5. 🎉 Merged PR [#9](https://github.com/jamesgeorge007/node-banner/pull/9) in [jamesgeorge007/node-banner](https://github.com/jamesgeorge007/node-banner)
 <!--END_SECTION:activity-->
 
 ---
