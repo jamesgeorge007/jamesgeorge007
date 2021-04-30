@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2674](https://github.com/webpack/webpack-cli/pull/2674) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-2. 💪 Opened PR [#4925](https://github.com/webpack/webpack.js.org/pull/4925) in [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org)
-3. 🎉 Merged PR [#5](https://github.com/jamesgeorge007/cli-prompts-test/pull/5) in [jamesgeorge007/cli-prompts-test](https://github.com/jamesgeorge007/cli-prompts-test)
-4. 🗣 Commented on [#4](https://github.com/jamesgeorge007/cli-prompts-test/issues/4) in [jamesgeorge007/cli-prompts-test](https://github.com/jamesgeorge007/cli-prompts-test)
-5. 🎉 Merged PR [#108](https://github.com/madlabsinc/teachcode/pull/108) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+1. 🎉 Merged PR [#2678](https://github.com/webpack/webpack-cli/pull/2678) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+2. 🎉 Merged PR [#2674](https://github.com/webpack/webpack-cli/pull/2674) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+3. 💪 Opened PR [#4925](https://github.com/webpack/webpack.js.org/pull/4925) in [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org)
+4. 🎉 Merged PR [#5](https://github.com/jamesgeorge007/cli-prompts-test/pull/5) in [jamesgeorge007/cli-prompts-test](https://github.com/jamesgeorge007/cli-prompts-test)
+5. 🗣 Commented on [#4](https://github.com/jamesgeorge007/cli-prompts-test/issues/4) in [jamesgeorge007/cli-prompts-test](https://github.com/jamesgeorge007/cli-prompts-test)
 <!--END_SECTION:activity-->
 
 ---
