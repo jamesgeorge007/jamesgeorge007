@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4952](https://github.com/webpack/webpack.js.org/issues/4952) in [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org)
-2. 💪 Opened PR [#14857](https://github.com/storybookjs/storybook/pull/14857) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-3. 💪 Opened PR [#4954](https://github.com/webpack/webpack.js.org/pull/4954) in [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org)
-4. 💪 Opened PR [#4953](https://github.com/webpack/webpack.js.org/pull/4953) in [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org)
-5. 💪 Opened PR [#4952](https://github.com/webpack/webpack.js.org/pull/4952) in [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org)
+1. 🎉 Merged PR [#10](https://github.com/jamesgeorge007/node-banner/pull/10) in [jamesgeorge007/node-banner](https://github.com/jamesgeorge007/node-banner)
+2. 🗣 Commented on [#4952](https://github.com/webpack/webpack.js.org/issues/4952) in [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org)
+3. 💪 Opened PR [#14857](https://github.com/storybookjs/storybook/pull/14857) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+4. 💪 Opened PR [#4954](https://github.com/webpack/webpack.js.org/pull/4954) in [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org)
+5. 💪 Opened PR [#4953](https://github.com/webpack/webpack.js.org/pull/4953) in [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org)
 <!--END_SECTION:activity-->
 
 ---
