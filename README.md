@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2700](https://github.com/webpack/webpack-cli/pull/2700) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-2. 🎉 Merged PR [#10](https://github.com/jamesgeorge007/node-banner/pull/10) in [jamesgeorge007/node-banner](https://github.com/jamesgeorge007/node-banner)
-3. 🗣 Commented on [#4952](https://github.com/webpack/webpack.js.org/issues/4952) in [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org)
-4. 💪 Opened PR [#14857](https://github.com/storybookjs/storybook/pull/14857) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-5. 💪 Opened PR [#4954](https://github.com/webpack/webpack.js.org/pull/4954) in [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org)
+1. 🗣 Commented on [#3204](https://github.com/vitejs/vite/issues/3204) in [vitejs/vite](https://github.com/vitejs/vite)
+2. 💪 Opened PR [#2700](https://github.com/webpack/webpack-cli/pull/2700) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+3. 🎉 Merged PR [#10](https://github.com/jamesgeorge007/node-banner/pull/10) in [jamesgeorge007/node-banner](https://github.com/jamesgeorge007/node-banner)
+4. 🗣 Commented on [#4952](https://github.com/webpack/webpack.js.org/issues/4952) in [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org)
+5. 💪 Opened PR [#14857](https://github.com/storybookjs/storybook/pull/14857) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
 <!--END_SECTION:activity-->
 
 ---
