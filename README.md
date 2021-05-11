@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#220](https://github.com/madlabsinc/mevn-cli/issues/220) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-2. 🗣 Commented on [#3204](https://github.com/vitejs/vite/issues/3204) in [vitejs/vite](https://github.com/vitejs/vite)
-3. 💪 Opened PR [#2700](https://github.com/webpack/webpack-cli/pull/2700) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-4. 🎉 Merged PR [#10](https://github.com/jamesgeorge007/node-banner/pull/10) in [jamesgeorge007/node-banner](https://github.com/jamesgeorge007/node-banner)
-5. 🗣 Commented on [#4952](https://github.com/webpack/webpack.js.org/issues/4952) in [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org)
+1. 💪 Opened PR [#2707](https://github.com/webpack/webpack-cli/pull/2707) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+2. 🎉 Merged PR [#18](https://github.com/jamesgeorge007/csstox/pull/18) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
+3. 🗣 Commented on [#220](https://github.com/madlabsinc/mevn-cli/issues/220) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
+4. 🗣 Commented on [#3204](https://github.com/vitejs/vite/issues/3204) in [vitejs/vite](https://github.com/vitejs/vite)
+5. 💪 Opened PR [#2700](https://github.com/webpack/webpack-cli/pull/2700) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
 <!--END_SECTION:activity-->
 
 ---
