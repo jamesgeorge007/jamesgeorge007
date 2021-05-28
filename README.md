@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#99](https://github.com/docsifyjs/docsify-cli/issues/99) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
-2. 💪 Opened PR [#2730](https://github.com/webpack/webpack-cli/pull/2730) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-3. 💪 Opened PR [#176](https://github.com/webpack-contrib/npm-install-webpack-plugin/pull/176) in [webpack-contrib/npm-install-webpack-plugin](https://github.com/webpack-contrib/npm-install-webpack-plugin)
-4. 💪 Opened PR [#25214](https://github.com/vercel/next.js/pull/25214) in [vercel/next.js](https://github.com/vercel/next.js)
-5. 💪 Opened PR [#174](https://github.com/webpack-contrib/npm-install-webpack-plugin/pull/174) in [webpack-contrib/npm-install-webpack-plugin](https://github.com/webpack-contrib/npm-install-webpack-plugin)
+1. 🎉 Merged PR [#6](https://github.com/jamesgeorge007/cli-prompts-test/pull/6) in [jamesgeorge007/cli-prompts-test](https://github.com/jamesgeorge007/cli-prompts-test)
+2. 🎉 Merged PR [#7](https://github.com/jamesgeorge007/cli-prompts-test/pull/7) in [jamesgeorge007/cli-prompts-test](https://github.com/jamesgeorge007/cli-prompts-test)
+3. 🎉 Merged PR [#8](https://github.com/jamesgeorge007/cli-prompts-test/pull/8) in [jamesgeorge007/cli-prompts-test](https://github.com/jamesgeorge007/cli-prompts-test)
+4. 🗣 Commented on [#99](https://github.com/docsifyjs/docsify-cli/issues/99) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+5. 🗣 Commented on [#99](https://github.com/docsifyjs/docsify-cli/issues/99) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
 <!--END_SECTION:activity-->
 
 ---
