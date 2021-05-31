@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/jamesgeorge007/cli-prompts-test/pull/6) in [jamesgeorge007/cli-prompts-test](https://github.com/jamesgeorge007/cli-prompts-test)
-2. 🎉 Merged PR [#7](https://github.com/jamesgeorge007/cli-prompts-test/pull/7) in [jamesgeorge007/cli-prompts-test](https://github.com/jamesgeorge007/cli-prompts-test)
-3. 🎉 Merged PR [#8](https://github.com/jamesgeorge007/cli-prompts-test/pull/8) in [jamesgeorge007/cli-prompts-test](https://github.com/jamesgeorge007/cli-prompts-test)
-4. 🗣 Commented on [#99](https://github.com/docsifyjs/docsify-cli/issues/99) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
-5. 🗣 Commented on [#99](https://github.com/docsifyjs/docsify-cli/issues/99) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+1. 🎉 Merged PR [#9](https://github.com/jamesgeorge007/cli-prompts-test/pull/9) in [jamesgeorge007/cli-prompts-test](https://github.com/jamesgeorge007/cli-prompts-test)
+2. 🗣 Commented on [#3044](https://github.com/vitejs/vite/issues/3044) in [vitejs/vite](https://github.com/vitejs/vite)
+3. 🎉 Merged PR [#6](https://github.com/jamesgeorge007/cli-prompts-test/pull/6) in [jamesgeorge007/cli-prompts-test](https://github.com/jamesgeorge007/cli-prompts-test)
+4. 🎉 Merged PR [#7](https://github.com/jamesgeorge007/cli-prompts-test/pull/7) in [jamesgeorge007/cli-prompts-test](https://github.com/jamesgeorge007/cli-prompts-test)
+5. 🎉 Merged PR [#8](https://github.com/jamesgeorge007/cli-prompts-test/pull/8) in [jamesgeorge007/cli-prompts-test](https://github.com/jamesgeorge007/cli-prompts-test)
 <!--END_SECTION:activity-->
 
 ---
