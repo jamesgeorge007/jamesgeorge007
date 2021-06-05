@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/jamesgeorge007/cli-starter/pull/2) in [jamesgeorge007/cli-starter](https://github.com/jamesgeorge007/cli-starter)
-2. 💪 Opened PR [#3615](https://github.com/vitejs/vite/pull/3615) in [vitejs/vite](https://github.com/vitejs/vite)
-3. 🎉 Merged PR [#9](https://github.com/jamesgeorge007/cli-prompts-test/pull/9) in [jamesgeorge007/cli-prompts-test](https://github.com/jamesgeorge007/cli-prompts-test)
-4. 🗣 Commented on [#3044](https://github.com/vitejs/vite/issues/3044) in [vitejs/vite](https://github.com/vitejs/vite)
-5. 🎉 Merged PR [#6](https://github.com/jamesgeorge007/cli-prompts-test/pull/6) in [jamesgeorge007/cli-prompts-test](https://github.com/jamesgeorge007/cli-prompts-test)
+1. 💪 Opened PR [#1577](https://github.com/preactjs/preact-cli/pull/1577) in [preactjs/preact-cli](https://github.com/preactjs/preact-cli)
+2. 🎉 Merged PR [#2](https://github.com/jamesgeorge007/cli-starter/pull/2) in [jamesgeorge007/cli-starter](https://github.com/jamesgeorge007/cli-starter)
+3. 💪 Opened PR [#3615](https://github.com/vitejs/vite/pull/3615) in [vitejs/vite](https://github.com/vitejs/vite)
+4. 🎉 Merged PR [#9](https://github.com/jamesgeorge007/cli-prompts-test/pull/9) in [jamesgeorge007/cli-prompts-test](https://github.com/jamesgeorge007/cli-prompts-test)
+5. 🗣 Commented on [#3044](https://github.com/vitejs/vite/issues/3044) in [vitejs/vite](https://github.com/vitejs/vite)
 <!--END_SECTION:activity-->
 
 ---
