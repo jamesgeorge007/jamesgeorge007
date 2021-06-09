@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2769](https://github.com/webpack/webpack-cli/pull/2769) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-2. 💪 Opened PR [#187](https://github.com/webpack-contrib/npm-install-webpack-plugin/pull/187) in [webpack-contrib/npm-install-webpack-plugin](https://github.com/webpack-contrib/npm-install-webpack-plugin)
-3. 💪 Opened PR [#2769](https://github.com/webpack/webpack-cli/pull/2769) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-4. ❗️ Opened issue [#2768](https://github.com/webpack/webpack-cli/issues/2768) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-5. 💪 Opened PR [#1577](https://github.com/preactjs/preact-cli/pull/1577) in [preactjs/preact-cli](https://github.com/preactjs/preact-cli)
+1. 💪 Opened PR [#2779](https://github.com/webpack/webpack-cli/pull/2779) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+2. 🎉 Merged PR [#2769](https://github.com/webpack/webpack-cli/pull/2769) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+3. 💪 Opened PR [#187](https://github.com/webpack-contrib/npm-install-webpack-plugin/pull/187) in [webpack-contrib/npm-install-webpack-plugin](https://github.com/webpack-contrib/npm-install-webpack-plugin)
+4. 💪 Opened PR [#2769](https://github.com/webpack/webpack-cli/pull/2769) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+5. ❗️ Opened issue [#2768](https://github.com/webpack/webpack-cli/issues/2768) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
 <!--END_SECTION:activity-->
 
 ---
