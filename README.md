@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#799](https://github.com/nuxt/create-nuxt-app/pull/799) in [nuxt/create-nuxt-app](https://github.com/nuxt/create-nuxt-app)
-2. 💪 Opened PR [#3769](https://github.com/vitejs/vite/pull/3769) in [vitejs/vite](https://github.com/vitejs/vite)
-3. 💪 Opened PR [#2779](https://github.com/webpack/webpack-cli/pull/2779) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-4. 🎉 Merged PR [#2769](https://github.com/webpack/webpack-cli/pull/2769) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-5. 💪 Opened PR [#187](https://github.com/webpack-contrib/npm-install-webpack-plugin/pull/187) in [webpack-contrib/npm-install-webpack-plugin](https://github.com/webpack-contrib/npm-install-webpack-plugin)
+1. 🎉 Merged PR [#117](https://github.com/madlabsinc/teachcode/pull/117) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+2. 🎉 Merged PR [#112](https://github.com/madlabsinc/teachcode/pull/112) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+3. 🎉 Merged PR [#114](https://github.com/madlabsinc/teachcode/pull/114) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+4. 🎉 Merged PR [#115](https://github.com/madlabsinc/teachcode/pull/115) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+5. 🎉 Merged PR [#116](https://github.com/madlabsinc/teachcode/pull/116) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
 <!--END_SECTION:activity-->
 
 ---
