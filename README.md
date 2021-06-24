@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#119](https://github.com/madlabsinc/teachcode/pull/119) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-2. 🎉 Merged PR [#3](https://github.com/jamesgeorge007/cli-starter/pull/3) in [jamesgeorge007/cli-starter](https://github.com/jamesgeorge007/cli-starter)
-3. 🎉 Merged PR [#117](https://github.com/madlabsinc/teachcode/pull/117) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-4. 🎉 Merged PR [#112](https://github.com/madlabsinc/teachcode/pull/112) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-5. 🎉 Merged PR [#114](https://github.com/madlabsinc/teachcode/pull/114) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+1. 💪 Opened PR [#2796](https://github.com/webpack/webpack-cli/pull/2796) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+2. 🎉 Merged PR [#119](https://github.com/madlabsinc/teachcode/pull/119) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+3. 🎉 Merged PR [#3](https://github.com/jamesgeorge007/cli-starter/pull/3) in [jamesgeorge007/cli-starter](https://github.com/jamesgeorge007/cli-starter)
+4. 🎉 Merged PR [#117](https://github.com/madlabsinc/teachcode/pull/117) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+5. 🎉 Merged PR [#112](https://github.com/madlabsinc/teachcode/pull/112) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
 <!--END_SECTION:activity-->
 
 ---
