@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#122](https://github.com/madlabsinc/teachcode/pull/122) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-2. 💪 Opened PR [#122](https://github.com/madlabsinc/teachcode/pull/122) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-3. 💪 Opened PR [#52](https://github.com/hoppscotch/hopp-doc-gen/pull/52) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
-4. 💪 Opened PR [#2842](https://github.com/webpack/webpack-cli/pull/2842) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-5. 🎉 Merged PR [#2](https://github.com/jamesgeorge007/nuxt-modules-cli/pull/2) in [jamesgeorge007/nuxt-modules-cli](https://github.com/jamesgeorge007/nuxt-modules-cli)
+1. 🎉 Merged PR [#46](https://github.com/hoppscotch/hopp-doc-gen/pull/46) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
+2. 🎉 Merged PR [#47](https://github.com/hoppscotch/hopp-doc-gen/pull/47) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
+3. 🎉 Merged PR [#52](https://github.com/hoppscotch/hopp-doc-gen/pull/52) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
+4. 🎉 Merged PR [#122](https://github.com/madlabsinc/teachcode/pull/122) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+5. 💪 Opened PR [#122](https://github.com/madlabsinc/teachcode/pull/122) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
 <!--END_SECTION:activity-->
 
 ---
