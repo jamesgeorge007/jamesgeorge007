@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/jamesgeorge007/scaffold-static/pull/38) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
-2. 🎉 Merged PR [#23](https://github.com/jamesgeorge007/csstox/pull/23) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
-3. 💪 Opened PR [#2859](https://github.com/webpack/webpack-cli/pull/2859) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-4. 🗣 Commented on [#2832](https://github.com/webpack/webpack-cli/issues/2832) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-5. 🎉 Merged PR [#46](https://github.com/hoppscotch/hopp-doc-gen/pull/46) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
+1. 🎉 Merged PR [#10](https://github.com/jamesgeorge007/cli-prompts-test/pull/10) in [jamesgeorge007/cli-prompts-test](https://github.com/jamesgeorge007/cli-prompts-test)
+2. 🎉 Merged PR [#38](https://github.com/jamesgeorge007/scaffold-static/pull/38) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
+3. 🎉 Merged PR [#23](https://github.com/jamesgeorge007/csstox/pull/23) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
+4. 💪 Opened PR [#2859](https://github.com/webpack/webpack-cli/pull/2859) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+5. 🗣 Commented on [#2832](https://github.com/webpack/webpack-cli/issues/2832) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
 <!--END_SECTION:activity-->
 
 ---
