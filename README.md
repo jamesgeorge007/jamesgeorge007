@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1412](https://github.com/nuxt/framework/pull/1412) in [nuxt/framework](https://github.com/nuxt/framework)
-2. 💪 Opened PR [#1409](https://github.com/nuxt/framework/pull/1409) in [nuxt/framework](https://github.com/nuxt/framework)
-3. ❗️ Opened issue [#1408](https://github.com/nuxt/framework/issues/1408) in [nuxt/framework](https://github.com/nuxt/framework)
-4. 🎉 Merged PR [#226](https://github.com/madlabsinc/mevn-cli/pull/226) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-5. 💪 Opened PR [#226](https://github.com/madlabsinc/mevn-cli/pull/226) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
+1. 💪 Opened PR [#3019](https://github.com/webpack/webpack-cli/pull/3019) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+2. 💪 Opened PR [#1605](https://github.com/nuxt/framework/pull/1605) in [nuxt/framework](https://github.com/nuxt/framework)
+3. 💪 Opened PR [#1412](https://github.com/nuxt/framework/pull/1412) in [nuxt/framework](https://github.com/nuxt/framework)
+4. 💪 Opened PR [#1409](https://github.com/nuxt/framework/pull/1409) in [nuxt/framework](https://github.com/nuxt/framework)
+5. ❗️ Opened issue [#1408](https://github.com/nuxt/framework/issues/1408) in [nuxt/framework](https://github.com/nuxt/framework)
 <!--END_SECTION:activity-->
 
 ---
