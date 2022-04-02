@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#228](https://github.com/madlabsinc/mevn-cli/pull/228) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-2. 🎉 Merged PR [#131](https://github.com/madlabsinc/teachcode/pull/131) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-3. 🎉 Merged PR [#132](https://github.com/madlabsinc/teachcode/pull/132) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-4. 🎉 Merged PR [#133](https://github.com/madlabsinc/teachcode/pull/133) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-5. 🎉 Merged PR [#134](https://github.com/madlabsinc/teachcode/pull/134) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+1. 🎉 Merged PR [#13](https://github.com/jamesgeorge007/cli-prompts-test/pull/13) in [jamesgeorge007/cli-prompts-test](https://github.com/jamesgeorge007/cli-prompts-test)
+2. 🎉 Merged PR [#36](https://github.com/jamesgeorge007/csstox/pull/36) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
+3. 🎉 Merged PR [#40](https://github.com/jamesgeorge007/scaffold-static/pull/40) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
+4. 🎉 Merged PR [#135](https://github.com/madlabsinc/teachcode/pull/135) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+5. 🎉 Merged PR [#136](https://github.com/madlabsinc/teachcode/pull/136) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
 <!--END_SECTION:activity-->
 
 ---
