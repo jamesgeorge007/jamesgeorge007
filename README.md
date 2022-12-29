@@ -13,8 +13,8 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1029](https://github.com/t3-oss/create-t3-app/issues/1029) in [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app)
-2. 🎉 Merged PR [#36](https://github.com/jamesgeorge007/csstox/pull/36) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
+1. 🗣 Commented on [#1408](https://github.com/nuxt/framework/issues/1408) in [nuxt/framework](https://github.com/nuxt/framework)
+2. ❗️ Opened issue [#1029](https://github.com/t3-oss/create-t3-app/issues/1029) in [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app)
 3. 🎉 Merged PR [#40](https://github.com/jamesgeorge007/scaffold-static/pull/40) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
 4. 🎉 Merged PR [#135](https://github.com/madlabsinc/teachcode/pull/135) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
 5. 🎉 Merged PR [#136](https://github.com/madlabsinc/teachcode/pull/136) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
