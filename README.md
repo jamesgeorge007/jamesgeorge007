@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1033](https://github.com/t3-oss/create-t3-app/issues/1033) in [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app)
-2. 🗣 Commented on [#1029](https://github.com/t3-oss/create-t3-app/issues/1029) in [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app)
-3. 🗣 Commented on [#1408](https://github.com/nuxt/framework/issues/1408) in [nuxt/framework](https://github.com/nuxt/framework)
-4. ❗️ Opened issue [#1029](https://github.com/t3-oss/create-t3-app/issues/1029) in [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app)
-5. 🎉 Merged PR [#136](https://github.com/madlabsinc/teachcode/pull/136) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+1. 🗣 Commented on [#1029](https://github.com/t3-oss/create-t3-app/issues/1029) in [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app)
+2. 🗣 Commented on [#1033](https://github.com/t3-oss/create-t3-app/issues/1033) in [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app)
+3. ❗️ Opened issue [#1033](https://github.com/t3-oss/create-t3-app/issues/1033) in [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app)
+4. 🗣 Commented on [#1029](https://github.com/t3-oss/create-t3-app/issues/1029) in [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app)
+5. 🗣 Commented on [#1408](https://github.com/nuxt/framework/issues/1408) in [nuxt/framework](https://github.com/nuxt/framework)
 <!--END_SECTION:activity-->
 
 ---
