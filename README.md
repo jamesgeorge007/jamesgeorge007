@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.4.2](https://github.com/jamesgeorge007/github-activity-readme/releases/tag/v0.4.2) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🎉 Merged PR [#107](https://github.com/jamesgeorge007/github-activity-readme/pull/107) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. 💪 Opened PR [#3333](https://github.com/hoppscotch/hoppscotch/pull/3333) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-4. 🚀 Published release [v0.4.1](https://github.com/jamesgeorge007/github-activity-readme/releases/tag/v0.4.1) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. 🎉 Merged PR [#104](https://github.com/jamesgeorge007/github-activity-readme/pull/104) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. 🗣 Commented on [#108](https://github.com/jamesgeorge007/github-activity-readme/issues/108#issuecomment-1722245735) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. ❗ Opened issue [#108](https://github.com/jamesgeorge007/github-activity-readme/issues/108) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+3. 🚀 Published release [v0.4.2](https://github.com/jamesgeorge007/github-activity-readme/releases/tag/v0.4.2) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+4. 🎉 Merged PR [#107](https://github.com/jamesgeorge007/github-activity-readme/pull/107) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+5. 💪 Opened PR [#3333](https://github.com/hoppscotch/hoppscotch/pull/3333) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
 <!--END_SECTION:activity-->
 
 ---
