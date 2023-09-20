@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3368](https://github.com/hoppscotch/hoppscotch/pull/3368) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-2. 💪 Opened PR [#3363](https://github.com/hoppscotch/hoppscotch/pull/3363) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-3. 🗣 Commented on [#108](https://github.com/jamesgeorge007/github-activity-readme/issues/108#issuecomment-1722245735) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. ❗ Opened issue [#108](https://github.com/jamesgeorge007/github-activity-readme/issues/108) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. 🚀 Published release [v0.4.2](https://github.com/jamesgeorge007/github-activity-readme/releases/tag/v0.4.2) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. 💪 Opened PR [#246](https://github.com/madlabsinc/mevn-cli/pull/246) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
+2. 💪 Opened PR [#3368](https://github.com/hoppscotch/hoppscotch/pull/3368) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+3. 💪 Opened PR [#3363](https://github.com/hoppscotch/hoppscotch/pull/3363) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+4. 🗣 Commented on [#108](https://github.com/jamesgeorge007/github-activity-readme/issues/108#issuecomment-1722245735) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+5. ❗ Opened issue [#108](https://github.com/jamesgeorge007/github-activity-readme/issues/108) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 ---
