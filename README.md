@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#247](https://github.com/madlabsinc/mevn-cli/issues/247) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-2. 🎉 Merged PR [#246](https://github.com/madlabsinc/mevn-cli/pull/246) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-3. ❗ Opened issue [#247](https://github.com/madlabsinc/mevn-cli/issues/247) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-4. 💪 Opened PR [#246](https://github.com/madlabsinc/mevn-cli/pull/246) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-5. 💪 Opened PR [#3368](https://github.com/hoppscotch/hoppscotch/pull/3368) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+1. 🗣 Commented on [#111](https://github.com/jamesgeorge007/github-activity-readme/pull/111#issuecomment-1732292896) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. 🗣 Commented on [#109](https://github.com/jamesgeorge007/github-activity-readme/issues/109#issuecomment-1732292228) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+3. 🔒 Closed issue [#109](https://github.com/jamesgeorge007/github-activity-readme/issues/109) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+4. 🎉 Merged PR [#111](https://github.com/jamesgeorge007/github-activity-readme/pull/111) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+5. 🔒 Closed issue [#247](https://github.com/madlabsinc/mevn-cli/issues/247) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
 <!--END_SECTION:activity-->
 
 ---
