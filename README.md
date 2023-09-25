@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#248](https://github.com/madlabsinc/mevn-cli/pull/248) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-2. 🗣 Commented on [#108](https://github.com/jamesgeorge007/github-activity-readme/issues/108#issuecomment-1732298299) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. 🗣 Commented on [#110](https://github.com/jamesgeorge007/github-activity-readme/issues/110#issuecomment-1732296360) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. 🗣 Commented on [#111](https://github.com/jamesgeorge007/github-activity-readme/pull/111#issuecomment-1732292896) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. 🗣 Commented on [#109](https://github.com/jamesgeorge007/github-activity-readme/issues/109#issuecomment-1732292228) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. ❌ Closed PR [#144](https://github.com/madlabsinc/teachcode/pull/144) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+2. ❌ Closed PR [#143](https://github.com/madlabsinc/teachcode/pull/143) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+3. ❌ Closed PR [#139](https://github.com/madlabsinc/teachcode/pull/139) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+4. ❌ Closed PR [#142](https://github.com/madlabsinc/teachcode/pull/142) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+5. ❌ Closed PR [#141](https://github.com/madlabsinc/teachcode/pull/141) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
 <!--END_SECTION:activity-->
 
 ---
