@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#112](https://github.com/jamesgeorge007/github-activity-readme/issues/112#issuecomment-1735510190) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🗣 Commented on [#112](https://github.com/jamesgeorge007/github-activity-readme/issues/112#issuecomment-1735508059) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. 🗣 Commented on [#126](https://github.com/madlabsinc/teachcode/pull/126#issuecomment-1733667265) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-4. ❌ Closed PR [#144](https://github.com/madlabsinc/teachcode/pull/144) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-5. ❌ Closed PR [#143](https://github.com/madlabsinc/teachcode/pull/143) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+1. 💪 Opened PR [#113](https://github.com/jamesgeorge007/github-activity-readme/pull/113) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. 🗣 Commented on [#112](https://github.com/jamesgeorge007/github-activity-readme/issues/112#issuecomment-1735510190) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+3. 🗣 Commented on [#112](https://github.com/jamesgeorge007/github-activity-readme/issues/112#issuecomment-1735508059) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+4. 🗣 Commented on [#126](https://github.com/madlabsinc/teachcode/pull/126#issuecomment-1733667265) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+5. ❌ Closed PR [#144](https://github.com/madlabsinc/teachcode/pull/144) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
 <!--END_SECTION:activity-->
 
 ---
