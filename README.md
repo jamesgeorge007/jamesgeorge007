@@ -13,8 +13,8 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3441](https://github.com/hoppscotch/hoppscotch/pull/3441) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-2. 💪 Opened PR [#3418](https://github.com/hoppscotch/hoppscotch/pull/3418) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+1. 💪 Opened PR [#3448](https://github.com/hoppscotch/hoppscotch/pull/3448) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+2. 💪 Opened PR [#3441](https://github.com/hoppscotch/hoppscotch/pull/3441) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
 3. 💪 Opened PR [#3416](https://github.com/hoppscotch/hoppscotch/pull/3416) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
 4. 🚀 Published release [v0.4.3](https://github.com/jamesgeorge007/github-activity-readme/releases/tag/v0.4.3) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 5. 🗣 Commented on [#113](https://github.com/jamesgeorge007/github-activity-readme/pull/113#issuecomment-1740783108) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
