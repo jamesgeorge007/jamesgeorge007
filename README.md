@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#147](https://github.com/madlabsinc/teachcode/pull/147) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-2. 🎉 Merged PR [#249](https://github.com/madlabsinc/mevn-cli/pull/249) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-3. 🗣 Commented on [#3451](https://github.com/hoppscotch/hoppscotch/pull/3451#issuecomment-1766554004) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-4. 💪 Opened PR [#152](https://github.com/hoppscotch/docs/pull/152) in [hoppscotch/docs](https://github.com/hoppscotch/docs)
-5. 🗣 Commented on [#3449](https://github.com/hoppscotch/hoppscotch/pull/3449#issuecomment-1765935493) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+1. 💪 Opened PR [#3472](https://github.com/hoppscotch/hoppscotch/pull/3472) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+2. 🎉 Merged PR [#147](https://github.com/madlabsinc/teachcode/pull/147) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+3. 🎉 Merged PR [#249](https://github.com/madlabsinc/mevn-cli/pull/249) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
+4. 🗣 Commented on [#3451](https://github.com/hoppscotch/hoppscotch/pull/3451#issuecomment-1766554004) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+5. 💪 Opened PR [#152](https://github.com/hoppscotch/docs/pull/152) in [hoppscotch/docs](https://github.com/hoppscotch/docs)
 <!--END_SECTION:activity-->
 
 ---
