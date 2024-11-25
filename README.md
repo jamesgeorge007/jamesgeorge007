@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4535](https://github.com/hoppscotch/hoppscotch/pull/4535) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-2. 🎉 Merged PR [#4489](https://github.com/hoppscotch/hoppscotch/pull/4489) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-3. 🎉 Merged PR [#4550](https://github.com/hoppscotch/hoppscotch/pull/4550) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-4. 🎉 Merged PR [#4475](https://github.com/hoppscotch/hoppscotch/pull/4475) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-5. 🎉 Merged PR [#4537](https://github.com/hoppscotch/hoppscotch/pull/4537) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+1. 🎉 Merged PR [#4555](https://github.com/hoppscotch/hoppscotch/pull/4555) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+2. 🎉 Merged PR [#4535](https://github.com/hoppscotch/hoppscotch/pull/4535) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+3. 🎉 Merged PR [#4489](https://github.com/hoppscotch/hoppscotch/pull/4489) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+4. 🎉 Merged PR [#4550](https://github.com/hoppscotch/hoppscotch/pull/4550) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+5. 🎉 Merged PR [#4475](https://github.com/hoppscotch/hoppscotch/pull/4475) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
 <!--END_SECTION:activity-->
 
 ---
