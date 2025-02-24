@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#118](https://github.com/jamesgeorge007/github-activity-readme/pull/118#issuecomment-2676250524) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🚀 Published release [v0.4.5](https://github.com/jamesgeorge007/github-activity-readme/releases/tag/v0.4.5) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. 🎉 Merged PR [#121](https://github.com/jamesgeorge007/github-activity-readme/pull/121) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. 🔒 Closed issue [#120](https://github.com/jamesgeorge007/github-activity-readme/issues/120) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. 🎉 Merged PR [#4778](https://github.com/hoppscotch/hoppscotch/pull/4778) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+1. 🎉 Merged PR [#4704](https://github.com/hoppscotch/hoppscotch/pull/4704) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+2. 🗣 Commented on [#118](https://github.com/jamesgeorge007/github-activity-readme/pull/118#issuecomment-2676250524) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+3. 🚀 Published release [v0.4.5](https://github.com/jamesgeorge007/github-activity-readme/releases/tag/v0.4.5) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+4. 🎉 Merged PR [#121](https://github.com/jamesgeorge007/github-activity-readme/pull/121) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+5. 🔒 Closed issue [#120](https://github.com/jamesgeorge007/github-activity-readme/issues/120) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 ---
