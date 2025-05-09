@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5059](https://github.com/hoppscotch/hoppscotch/pull/5059) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-2. 🎉 Merged PR [#5041](https://github.com/hoppscotch/hoppscotch/pull/5041) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-3. 🎉 Merged PR [#4963](https://github.com/hoppscotch/hoppscotch/pull/4963) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-4. 🎉 Merged PR [#5053](https://github.com/hoppscotch/hoppscotch/pull/5053) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-5. 🚀 Published release [2025.4.1](https://github.com/hoppscotch/hoppscotch/releases/tag/2025.4.1) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+1. 🗣 Commented on [#5013](https://github.com/hoppscotch/hoppscotch/issues/5013#issuecomment-2862651232) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+2. 🔒 Closed issue [#5013](https://github.com/hoppscotch/hoppscotch/issues/5013) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+3. 🚀 Published release [2025.4.2](https://github.com/hoppscotch/hoppscotch/releases/tag/2025.4.2) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+4. 🎉 Merged PR [#5059](https://github.com/hoppscotch/hoppscotch/pull/5059) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+5. 🎉 Merged PR [#5041](https://github.com/hoppscotch/hoppscotch/pull/5041) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
 <!--END_SECTION:activity-->
 
 ---
