@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/AndrewBastin/faraday-cage/issues/1) in [AndrewBastin/faraday-cage](https://github.com/AndrewBastin/faraday-cage)
-2. 🎉 Merged PR [#5217](https://github.com/hoppscotch/hoppscotch/pull/5217) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-3. 🗣 Commented on [#5209](https://github.com/hoppscotch/hoppscotch/pull/5209#issuecomment-3031036699) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-4. ❌ Closed PR [#5209](https://github.com/hoppscotch/hoppscotch/pull/5209) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-5. 🗣 Commented on [#5089](https://github.com/hoppscotch/hoppscotch/issues/5089#issuecomment-3012119524) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+1. 🎉 Merged PR [#5229](https://github.com/hoppscotch/hoppscotch/pull/5229) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+2. ❗ Opened issue [#1](https://github.com/AndrewBastin/faraday-cage/issues/1) in [AndrewBastin/faraday-cage](https://github.com/AndrewBastin/faraday-cage)
+3. 🎉 Merged PR [#5217](https://github.com/hoppscotch/hoppscotch/pull/5217) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+4. 🗣 Commented on [#5209](https://github.com/hoppscotch/hoppscotch/pull/5209#issuecomment-3031036699) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+5. ❌ Closed PR [#5209](https://github.com/hoppscotch/hoppscotch/pull/5209) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
 <!--END_SECTION:activity-->
 
 ---
