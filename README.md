@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Assigned issue [#4200](https://github.com/hoppscotch/hoppscotch/issues/4200) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-2. 🔒 Closed issue [#4200](https://github.com/hoppscotch/hoppscotch/issues/4200) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-3. 🗣 Commented on [#4200](https://github.com/hoppscotch/hoppscotch/issues/4200#issuecomment-3489665616) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-4.  Assigned issue [#4133](https://github.com/hoppscotch/hoppscotch/issues/4133) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-5. 🗣 Commented on [#4133](https://github.com/hoppscotch/hoppscotch/issues/4133#issuecomment-3489627023) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+1. ❌ Closed PR [#125](undefined) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. 🗣 Commented on [#125](https://github.com/jamesgeorge007/github-activity-readme/pull/125#issuecomment-3489850153) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+3. 🗣 Commented on [#126](https://github.com/jamesgeorge007/github-activity-readme/pull/126#issuecomment-3489849669) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+4. ❌ Closed PR [#126](undefined) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+5.  Labeled issue [#127](https://github.com/jamesgeorge007/github-activity-readme/issues/127) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 ---
