@@ -17,7 +17,7 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 2. 🗣 Commented on [#3073](https://github.com/hoppscotch/hoppscotch/issues/3073#issuecomment-3585243290) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
 3. 🔒 Closed issue [#874](https://github.com/hoppscotch/hoppscotch/issues/874) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
 4. 🗣 Commented on [#874](https://github.com/hoppscotch/hoppscotch/issues/874#issuecomment-3585229679) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-5. 🔒 Closed issue [#4558](https://github.com/hoppscotch/hoppscotch/issues/4558) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+5. 🗣 Commented on [#4558](https://github.com/hoppscotch/hoppscotch/issues/4558#issuecomment-3585216275) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
 <!--END_SECTION:activity-->
 
 ---
