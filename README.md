@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Assigned issue [#5667](https://github.com/hoppscotch/hoppscotch/issues/5667) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-2.  Assigned issue [#5664](https://github.com/hoppscotch/hoppscotch/issues/5664) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-3. ❌ Assigned PR [#5665](undefined) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-4.  Unlabeled issue [#5294](https://github.com/hoppscotch/hoppscotch/issues/5294) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-5. 🗣 Commented on [#5294](https://github.com/hoppscotch/hoppscotch/issues/5294#issuecomment-3616087564) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+1. 🗣 Commented on [#5631](https://github.com/hoppscotch/hoppscotch/pull/5631#issuecomment-3626649718) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+2.  Assigned issue [#5667](https://github.com/hoppscotch/hoppscotch/issues/5667) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+3.  Assigned issue [#5664](https://github.com/hoppscotch/hoppscotch/issues/5664) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+4. ❌ Assigned PR [#5665](undefined) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+5.  Unlabeled issue [#5294](https://github.com/hoppscotch/hoppscotch/issues/5294) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
 <!--END_SECTION:activity-->
 
 ---
