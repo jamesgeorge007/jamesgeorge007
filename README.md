@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#5855](https://github.com/hoppscotch/hoppscotch/pull/5855) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-2. ❌ Closed PR [#5855](https://github.com/hoppscotch/hoppscotch/pull/5855) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-3. 🗣 Commented on [#5855](https://github.com/hoppscotch/hoppscotch/pull/5855#issuecomment-3875638513) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-4. ℹ️ Assigned PR [#5853](https://github.com/hoppscotch/hoppscotch/pull/5853) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-5. ℹ️ Assigned PR [#5850](https://github.com/hoppscotch/hoppscotch/pull/5850) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+1. ℹ️ Assigned issue [#5851](https://github.com/hoppscotch/hoppscotch/issues/5851) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+2. ℹ️ Assigned issue [#5856](https://github.com/hoppscotch/hoppscotch/issues/5856) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+3. ℹ️ Labeled PR [#5855](https://github.com/hoppscotch/hoppscotch/pull/5855) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+4. ❌ Closed PR [#5855](https://github.com/hoppscotch/hoppscotch/pull/5855) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+5. 🗣 Commented on [#5855](https://github.com/hoppscotch/hoppscotch/pull/5855#issuecomment-3875638513) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
 <!--END_SECTION:activity-->
 
 ---
