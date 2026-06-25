@@ -14,10 +14,10 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 
 <!--START_SECTION:activity-->
 1. ℹ️ Assigned PR [#6472](https://github.com/hoppscotch/hoppscotch/pull/6472) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-2. 💪 Opened PR [#42](https://github.com/hoppscotch/ui/pull/42) in [hoppscotch/ui](https://github.com/hoppscotch/ui)
-3. ℹ️ Assigned PR [#6463](https://github.com/hoppscotch/hoppscotch/pull/6463) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-4. ℹ️ Labeled PR [#6459](https://github.com/hoppscotch/hoppscotch/pull/6459) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-5. ℹ️ Labeled PR [#6465](https://github.com/hoppscotch/hoppscotch/pull/6465) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+2. ℹ️ Assigned PR [#6472](https://github.com/hoppscotch/hoppscotch/pull/6472) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+3. 💪 Opened PR [#42](https://github.com/hoppscotch/ui/pull/42) in [hoppscotch/ui](https://github.com/hoppscotch/ui)
+4. ℹ️ Assigned PR [#6463](https://github.com/hoppscotch/hoppscotch/pull/6463) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+5. ℹ️ Labeled PR [#6459](https://github.com/hoppscotch/hoppscotch/pull/6459) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
 <!--END_SECTION:activity-->
 
 ---
