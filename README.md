@@ -13,11 +13,11 @@ I'm James. I love building utilities aimed at increasing Developer productivity 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6444](https://github.com/hoppscotch/hoppscotch/pull/6444#issuecomment-4841723527) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-2. 🗣 Commented on [#6334](https://github.com/hoppscotch/hoppscotch/pull/6334#issuecomment-4841719444) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-3. 🗣 Commented on [#6444](https://github.com/hoppscotch/hoppscotch/pull/6444#issuecomment-4841688334) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-4. 🗣 Commented on [#6363](https://github.com/hoppscotch/hoppscotch/pull/6363#issuecomment-4841188195) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-5. ℹ️ Assigned PR [#6363](https://github.com/hoppscotch/hoppscotch/pull/6363) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+1. 🚀 Published release [2026.6.0](https://github.com/hoppscotch/hoppscotch/releases/tag/2026.6.0) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+2. 🗣 Commented on [#6444](https://github.com/hoppscotch/hoppscotch/pull/6444#issuecomment-4841723527) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+3. 🗣 Commented on [#6334](https://github.com/hoppscotch/hoppscotch/pull/6334#issuecomment-4841719444) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+4. 🗣 Commented on [#6444](https://github.com/hoppscotch/hoppscotch/pull/6444#issuecomment-4841688334) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+5. 🗣 Commented on [#6363](https://github.com/hoppscotch/hoppscotch/pull/6363#issuecomment-4841188195) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
 <!--END_SECTION:activity-->
 
 ---
